@@ -1,0 +1,30 @@
+html {
+    color: #bbb;
+    background-color: black;
+    margin: 0px auto;
+}
+article, nav {
+    display: inline-block;
+    background-color: #315A8C;
+    border-width: 4px;
+    border-image: url(/img/ff4.png) 4 4;
+    -moz-border-image: url(/img/ff4.png) 4 4;
+    -o-border-image: url(/img/ff4.png) 4 4;
+}
+nav {
+    width: 20%;
+    margin-left: 1em;
+}
+article {
+    width: 70%;
+    margin-left: 1em;
+}
+footer {
+    display: block;
+}
+a:link, a:visited {
+    color: #5FF;
+}
+a:hover, a:active {
+    color: #FF5;
+}
