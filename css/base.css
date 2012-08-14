@@ -49,9 +49,11 @@ a:hover, a:active {
 }
 h1 {
     font-size: 180%;
+    margin-bottom: 1ex;
 }
 h2 {
     font-size: 160%;
+    margin-bottom: 1ex;
 }
 h3 {
     font-size: 140%;
