@@ -1,0 +1,28 @@
+---
+layout: base
+title: OS Pizza
+---
+
+* *Debian Pizza*: Debian may have the best, most well-thought out crust in the industry and a stern policy for coordinating the interactions of any toppings you choose, but you can get any topping you like, even such exotica as squid-ink sauce.
+* *Gentoo Pizza*: Gentoo requires you to bake your pizza yourself; they just supply recipes and ingredients. However, you are required to not only specify whether you want cheese, but also who produced it.
+* *Ubuntu Pizza*: A reinvention of the Debian Pizza, using only the freshest of ingredients. The pizza sauce was made just last night, but the crust isn't as well-made as Debian's.
+* *RedHat Enterprise Pizza*: Not very good, but backed by a corporation that's willing to sell you pie after pie on an industrial scale.
+* *Fedora Pizza*: Backed by the same corporation responsible for RedHat Enterprise Pizza, Fedora Pizza offers a pie similar to Debian Pizza, but with their own take on the requisite flavours.
+* *CentOS Pizza*: Made to the same recipe as RedHat Pizza, only by a little bloke selling it at a street corner. It probably tastes the same, but if the pepperoni falls off it's Now Your Problem.
+* *Windows 9x/ME Pizza*: Some question whether it even qualifies as pizza, due in part to the lack of sauce; additionally, the meat used could have come from pretty much any animal. It tends to fall to pieces when you try to eat it.
+* *Windows 2000 Pizza*: A superior pizza to the original Windows pie, despite inheriting the same lack of sauce. Incidence of failing cohesion is greatly reduced over the original pie, as well.
+* *Windows XP Pizza*: A somewhat flashier version of the Windows 2000 pizza. Many people favour it over the more recent Vista pizza.
+* *Windows Vista Pizza*: Flashier and more secure than the XP pizza, but it's not very filling and has a bad aftertaste.
+* *Windows 7 Pizza*: The latest Windows pie. It's a fair bit more filling than the Vista pie, and the aftertaste is gone. Fans of the Vista pizza are sure to enjoy this pie.
+* *Xandros Pizza*: Uses the same basic ingredients as Debian Pizza, but at the same time attempts to mimic Windows Pizza.
+* *MacOS X Pizza*: Apple guarantees every pie will look aesthetically pleasing, but they all taste the same and it costs an arm and a leg.
+* *Solaris Pizza*: For a long time disregarded by pizza connoisseurs, but for a while they'd sell you a pizza that you can have different flavours per slice, on a base far bigger than you can possibly imagine. However, since it changed hands the ingredients have suffered, and they are no longer particularly interested in letting you peek inside.
+* *SCO Pizza*: Was never very good to begin with, and lately their recipes seem to involve toxic mold, but for some reason some people still like it.
+* *VMS Pizza*: Most people are surprised to learn this one's still around. Uses a white sauce and unusual toppings, but its supporters say that there's nothing better. Older guys talk about how it was great back in the day, but nobody orders it any more.
+* *NeXTSTEP Pizza*: Everyone talks about how great it used to be, but the recipe has changed hands and been altered so many times that if you can still get it at all, it's nothing like the original. Once in a very great while you can still find someone who peddles the original, but they only ever make a few pies, and run out fast.
+* *OS/2 Pizza*: Uses some of the same ingredients as Windows Pizza, but provides a superior crust. Very advanced for its day, but few people order it any more.
+* *RISC OS pizza*: Hardly anyone orders it anymore, even if they're lucky enough to find some place that sells it. The recipe, however, is almost impossible to screw up. Bakes really fast, too, since most of the ingredients are already in the mix.
+* *MS-DOS Pizza*: No matter what you order, it all looks the same until you start. Attempts to take more than one slice at a time will generally leave you with a mess, and you have to start all over again if that happens. And sometimes one slice is all it takes for a serious mess. It comes with all manner of built-in slicers, but you are much better off using one purchased separately.
+* *Alpine Pizza*: A new take on the traditional Debian recipe with a few ideas borrowed from Gentoo's pizza, Alpine can be made to order. Care is advised, however, as the startup responsible for it is still growing.
+
+_Contributions made by the denizens of #unixfurs & #techfurs and BRPXQZME._

@@ -1,0 +1,8 @@
+---
+layout: base
+title: Useful CSS Tricks
+---
+
+p. This is mostly a self-referential section so I don't have to Google for these again (ugh), but it might serve as a useful reference for other folks too.
+
+* "Vertical centering":verticenter.html

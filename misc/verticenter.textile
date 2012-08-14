@@ -1,0 +1,20 @@
+title: Vertical Centering
+
+p. This is a much better way to do vertical centering (e.g. for a neat-looking login prompt or a loading animation) than using display:table & display:table-cell (which doesn't work in _really_ modern browsers like Chrome anyway):
+
+notextile. <pre><code>#outer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    /* Half of X, not '(X / 2)' */
+    margin-left: -(X / 2) &lt;units&gt;;
+    /* Half of Y, not '(Y / 2)' */
+    margin-top: -(Y / 2) &lt;units #2&gt;;
+}
+#inner {
+    position: absolute;
+    width: X &lt;units&gt;;
+    height: Y &lt;units #2&gt;;
+}</pre></code>
+
+p. And then you can use whatever block-level element(s) you like. Please, please, _please_ use HTML5 elements if it would be appropriate to do so. If you have to support older browsers which may not recognize them, use an HTML5 shiv to make them available to JavaScript and set them to <code>display: block;</code> in your CSS. _Do not_ use the HTML5reset stylesheet; it erases quite a few sensible defaults for elements everyone already supports for no good reason.

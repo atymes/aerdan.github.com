@@ -1,0 +1,51 @@
+---
+layout: base
+title: Surveyor
+---
+
+(The content on this page is *not* licensed under the Creative Commons license; unless you have received written permission, you have no rights to any of the content on this page.)
+
+Surveyor is a first-person exploration game, with influences from the epic fantasy genre, and is inspired by the Metroid and Castlevania franchises by Nintendo and Konami, respectively. Players will explore a randomly-generated world, acquiring items and learning spells as they encounter new regions.
+
+The primary goal of each world may differ; on some worlds, it will be to catalogue flora and fauna as extensively as possible. On other worlds, the player may be required to locate an ancient artifact for research purposes.
+
+Items which may be encountered include magical wands which can deal damage to enemies, alter the environment, and more; armor which offers more protection, enables exploration of areas that were previously too dangerous, and enhance the character's capabilities in other ways; scrolls which reveal more areas to explore, bestow knowledge of spells, or enhance wands and armor; and more.
+
+h2. World Generation
+
+World generation will consist of selecting a number (5-8) of regions from a large pool; this ensures that it will always be possible to thoroughly explore the world. Each region will have a theme attached, from mountainous terrain to hot (or cold) deserts containing ruins from past civilizations, and more. Themes may appear at most twice per world, and only one theme may occur twice in any given world.
+
+An alternative world generation model may consist of generating rooms, with a watchdog ensuring that it is possible to reach any given item without needing that item; the watchdog would also ensure that it is possible to reach all items (i.e. no closed-loop item acquisition). Such a model would apply themes after the rooms are generated so that a reasonable progression may be made between regions.
+
+In either model, there should be multiple routes to each objective, sometimes with multiple objectives available at once. Not all objectives should be required in order to complete the game (e.g. health increasers, ammo increasers, etc.) In addition, players must be permitted to input a seed so that they may guarantee a particular world.
+
+h2. Items and Powers
+
+This is a non-exhaustive list of concepts for items and powers. Not all of these concepts will appear in any given playthrough, or even the game as a whole.
+
+h3. Wands
+
+Wands are the main 'ranged' tools of Surveyor. Unlike spells, which run off of an energy meter, wands are effectively unlimited-use. Examples include:
+
+* Elemental: The wand emits a burst of elemental energy, which can deal damage to enemies or defeat barriers constructed of the opposing element. The elements available may differ from world to world, including the oppositions, and may be based on Greek, Oriental, or other element systems.
+* ...
+
+h3. Armor
+
+Any item which can be worn is considered 'armor', and a range of slots are available based on player preference. Single-slot systems may feature multiple types of armor with per-armor upgrades, whereas multi-slot systems would allow for on-the-fly outfit customization. Potential abilities include:
+
+* Limited flight
+* Higher jumps, including 'double jumps'
+* Damage absorption
+* Protection from elemental damage
+* Enhanced detection of secrets
+* ...
+
+h3. Weapons
+
+Various weapons may be available, from simple daggers to enchanted bows which shoot bolts of energy. As with armor, multiple systems are possible based on player preference. One might prefer having weapon categories, where new weapons are strictly upgrades over older weapons in the same category, or a range of weapons where each weapon has benefits and drawbacks compared to another weapon even in the same category.
+
+h2. Expansion
+
+DLC(DownLoadable Content) should be either free, for minor additions (new outfits, for instance), or cheap (new region templates, new themes, 'locked' world scenarios). It should also be possible for players to generate and sideload their own content without restriction; an official marketplace will be provided for official expansions and user-generated content, but it will be monitored to ensure no paid content infringes IP.
+

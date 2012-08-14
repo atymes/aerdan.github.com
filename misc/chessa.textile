@@ -1,0 +1,226 @@
+---
+layout: base
+title: Chessa Usage
+---
+
+p. Chessa's commands may be prefixed with a period (.) for both public *and* private use. The usage information for each command is based on this syntax.
+
+p. Commands marked as @Dicebot: Yes.@ support comments using the semicolon (;), and additionally support modifiers appended to the command. Those modifiers are as follows:
+
+* @.<Command>-to <Target>@ Executes @<Command>@ as normal and PMs the output to @<Target>@ and yourself.
+* @.<Command>-as <Victim>@ Executes @<Command>@ as normal and replaces your nick in the output with @<Victim>@. Note that @.<Command>-as@ only performs this replacement if the command is used in public; otherwise it behaves like any other PMed command.
+
+h2. Commands
+
+h3. arm
+
+* *Dicebot*: Yes.
+* *Usage*: @.arm <Armor> <Vitality>@
+* *System*: "Final Fantasy RPG (Returner Games, Inc.)":http://www.returnergames.com/
+
+p. Calculates the Armor total based on the @<Armor>@ value and the bonus given by the @<Vitality>@.
+
+h3. choose
+
+* *Dicebot*: No.
+* *Usage*: @.choose <Choice1>, <Choice2>[, ...]@
+* *System*: N/A
+
+p. Randomly chooses a value from the choices given.
+
+h3. converter
+
+* *Dicebot*: No.
+* *Usage*: @.converter@
+* *System*: N/A
+
+p. Returns a list of log converters used by the Final Fantasy RPG IRC community. Please note that only mIRC, xchat, skype, and irssi's default log formats are currently supported. A formatting guide is, as of yet, nonexistent, so please double-check with Aerdan if the emitted WikiText looks odd.
+
+h3. darkhour
+
+* *Dicebot*: No.
+* *Usage*: @.darkhour[ <Hour>]@
+* *System*: N/A
+
+p. Returns the Dark Hours for the Billy Vs. Snakeman parody browser MMO. If the @<Hour>@ argument is given, sets the base Dark Hour to that hour. (Please do not use this command unless you are in @#billy_vs_snakeman@.)
+
+h3. dharma
+
+* *Dicebot*: Yes.
+* *Usage*: @.dharma <Dice>@
+* *System*: "Dharma 6":http://www.ruleofcool.com/donation-thresholds/
+
+p. Rolls @<Dice>@d6 and counts the number of fives and sixes rolled.
+
+h3. exalted
+
+* *Dicebot*: Yes.
+* *Usage*: @.exalted <Dice>[ <Target>]@ or @.exalted <Dice>d[ <Target>]@
+* *System*: Exalted 2e
+
+p. Rolls @<Dice>@d10, where rolls over the @<Target>@ (default 7) are successes. Tens are considered to be two successes unless the @<Dice>@d form is used.
+
+h3. fudge
+
+* *Dicebot*: Yes.
+* *Usage*: @.fudge[ <Modifier> [<Dice>]]@
+* *System*: FATE-based systems, including Diaspora, Dresden Files RPG, Spirit of the Century, and Exalted/Fate.
+
+p. Rolls @<Dice>@dF (default 4), where one dF is a six-sided die with two negative (-) sides, two positive (+) sides, and two blank sides. The result is the sum of the dice plus the @<Modifier>@. Acceptable modifiers are positive or negative numbers, or a ladder label.
+
+h3. hellcats
+
+* *Dicebot*: Yes.
+* *Usage*: @.hellcats[ <Dice>[+<Modifier>][ <Difficulty>]]@
+* *System*: Hellcats & Hockeysticks
+
+p. Rolls @<Dice>@d6 (default 1), where the highest roll is matched against the difficulty. The @<Modifier>@ reduces the dice by three for each step above zero, but increases the highest roll by the value given.
+
+h3. homestuck
+
+* *Dicebot*: Yes.
+* *Usage*: @.homestuck@ or @.homestuck <Suit>@ or @.homestuck <Rank> <Suit>@
+* *System*: Homestuck RPG
+
+p. Draws a card; the card's value is restricted by the optional arguments. The value is determined as follows: Clubs are 100, Diamonds are 200, Hearts are 300, and Spades are 400, and rank is given as 1-13 where Aces are 1 and Kings are 13.
+
+h3. level
+
+* *Dicebot*: No.
+* *Usage*: @.level <Level>@
+* *System*: "Final Fantasy RPG (Returner Games, Inc.)":http://www.returnergames.com/
+
+p. Gives total experience, experience required for next level, skill cap, availability, and character creation gil & Engineer bonus for the given level.
+
+h3. lonewolf
+
+* *Dicebot*: Yes.
+* *Usage*: @.lonewolf <PlayerCS> <EnemyCS>@
+* *System*: Lone Wolf Multiplayer Game & Lone Wolf gamebooks
+
+p. Calculates the combat ratio (@<PlayerCS>@ - @<EnemyCS>@), rolls 1d10 (where 10s are actually 0s), and returns the damage to player and enemy based on the combat table.
+
+h3. maid
+
+* *Dicebot*: Yes.
+* *Usage*: @.maid[ <Attribute>[ <DC>]]@
+* *System*: Maid RPG
+
+p. Rolls 1d6 and multiplies the result by the @<Attribute>@ (default 2) and reports the roll and pass or fail based on the @<DC>@ (default 4).
+
+h3. math
+
+* *Dicebot*: Yes.
+* *Usage*: @.math <Formula>@
+* *System*: N/A
+
+p. Calculate the given formula. The following operators, functions, and variables are supported.
+
+|_. Op. |_. Operation             |_. Function |_. Effects                  |_. Args |_. Var. |_. Definition    |
+| @**@  | Exponents               | int        | Truncation                 |      1 | pi     | 4 * atan2(1, 1) |
+| @*@   | Multiplication          | hex        | Hexadecimal (integer-only) |      1 | e      | exp(1)          |
+| @/@   | Division                | oct        | Octal (integer-only)       |      1 | tau    | 8 * atan2(1, 1) |
+| @%@   | Modulo division         | bin        | Binary (integer-only)      |      1 | pie    | pi * e          |
+| @d@   | Die roll                | atan2      | Two-argument arc-tangents  |      2 |        |                 |
+| @^@   | Bitwise XOR             | cos        | Cosine                     |      1 |        |                 |
+| @&@   | Bitwise AND             | exp        | e to the nth power         |      1 |        |                 |
+| @|@   | Bitwise OR              | log        | Logarithm of n             |      1 |        |                 |
+| @+@   | Addition                | logn       | Logarithm of n (base x)    |      2 |        |                 |
+| @-@   | Subtraction<br>Negation | log10      | Logarithm of n (base 10)   |      1 |        |                 |
+| @~@   | 1's complement          | sin        | Sine                       |      1 |        |                 |
+| @+@   | Absolute value (unary)  | asin       | Arcsine                    |      1 |        |                 |
+|       |                         | sqrt       | Square root                |      1 |        |                 |
+
+p. *Note*: hex(), oct(), and bin() will apply their bases to other numbers used in the same formula. Conflicting bases where neither side is base-10 will yield base-10 results.
+
+h3. nwod
+
+* *Dicebot*: Yes.
+* *Usage*: @.nwod <Dice>[ <Exploding>]@
+* *System*: New World of Darkness
+
+p. Roll @<Dice>@d10, exploding on @<Exploding>@ (default 10) or higher.
+
+h3. roll
+
+* *Dicebot*: Yes.
+* *Usage*: @.roll <Formula>...@
+* *System*: N/A
+
+p. Calculates many formulas at once using the same operators, functions, and variables as @.math@; however, two more operators are available:
+
+|_. Op. |_. Operation                                                                            |
+| @#@   | Repeats the formula on the right the number of times given by the formula on the left. |
+| @,@   | Multiply the preceding formula by the percentage given (including % sign).             |
+
+h3. rung
+
+* *Dicebot*: No.
+* *Usage*: @.rung <Rung>@
+* *System*: Homestuck RPG
+
+p. Gives the experience/HP bonus, Strife/DV bonus, skill cap, grist, and ability tier for the given @<Rung>@.
+
+h3. seedlv
+
+* *Dicebot*: No.
+* *Usage*: @.seedlv <Level>@
+* *System*: "Seed":http://ffrpgseed.wikispaces.com/
+
+p. Gives the current experience, experience to next level, tier, number of 'free' ability slots, number of talent slots, and at-creation JP for the given level.
+
+h3. silcore
+
+* *Dicebot*: Yes.
+* *Usage*: @.silcore <Dice>[ <Bonus>]@
+* *System*: Silhouette Core
+
+p. Roll @<Dice>@d6 and add the given @<Bonus>@ (default 0) to the highest roll. Sixes past the first add one to the highest for each six.
+
+h3. title
+
+* *Dicebot*: No.
+* *Usage*: @.title <URL>...@
+* *System*: N/A
+
+p. Returns some information on all URLs passed; for non-image URLs which are also non-HTML, return MIME type and file-size, if applicable. For HTML URLs, return page title and the true URL if any redirects are found.
+
+h3. unicode
+
+* *Dicebot*: No.
+* *Usage*: @.unicode <Codepoint>@
+* *System*: N/A
+
+p. Returns information (fully-qualified Unicode codepoint, name, and XML entity) on the given codepoint. Only the first codepoint, plus any following combining codepoints, will be looked up.
+
+h3. uniname
+
+* *Dicebot*: No.
+* *Usage*: @.uniname <NamedSequence>@
+* *System*: N/A
+
+p. If the named sequence provided is a valid, and complete, named sequence, returns information on that sequence identical to that given by @.unicode@.
+
+h3. utf8test
+
+* *Dicebot*: No.
+* *Usage*: @.utf8test@
+* *System*: N/A
+
+p. Returns a number of Unicode codepoints to test both Unicode support and font coverage.
+
+h3. owod
+
+* *Dicebot*: Yes.
+* *Usage*: @.wod <Dice>[ <Difficulty>@
+* *System*: Old World of Darkness
+
+p. Roll @<Dice>@d10, where rolls at least @<Difficulty>@ (default 6) are successes, tens are two successes, and ones detract from the count.
+
+h3. weather
+
+* *Dicebot*: No.
+* *Usage*: @.weather <Query>@
+* *System*: N/A
+
+p. Queries "Weather Underground":http://wunderground.com for current conditions. @<Query>@ must be one of the following: City, State; City, Country; US ZIP code; ICAO airport code; latitude, longitude; or a WUnderground station ID (*not* prefixed with @pws:@).
