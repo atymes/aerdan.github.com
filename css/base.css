@@ -24,7 +24,7 @@ nav {
     margin-left: 1em;
     vertical-align: top;
 }
-nav > ul {
+nav ul {
     list-style-type: none;
 }
 aside {
