@@ -1,6 +1,7 @@
 html {
     color: #FFF;
     background-color: black;
+    text-shadow: black 3px 3px 0;
 }
 body {
     margin-top: 1em;
@@ -63,4 +64,15 @@ h3 {
 }
 h4, h5, h6 {
     font-size: 125%;
+}
+
+::selection {
+    text-shadow: none;
+    color: #FFF;
+    background-color: #09F;
+}
+::-moz-selection {
+    text-shadow: none;
+    color: #FFF;
+    background-color: #09F;
 }

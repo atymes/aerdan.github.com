@@ -1,0 +1,24 @@
+a:link, a:visited {
+    color: #5ff;
+}
+a:hover, a:active {
+    color: #ff5;
+}
+article, footer, nav, section {
+    background-image: url(/img/ct1-bg.png);
+    border-width: 16px;
+    border-image: url(/img/ct1.png) 8 8;
+    border-image-repeat: repeat;
+    -moz-border-image: url(/img/ct1.png) 8 8;
+    -moz-border-image-repeat: repeat;
+    -o-border-image: url(/img/ct1.png) 8 8;
+    -o-border-image-repeat: repeat;
+}
+b.kanji {
+    font-weight: normal;
+    color: #9FF;
+}
+i.official {
+    font-style: normal;
+    color: #F9F;
+}
