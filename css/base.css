@@ -14,11 +14,14 @@ article, nav, footer {
     border-image: url(/img/ff4.png) 4 4;
     -moz-border-image: url(/img/ff4.png) 4 4;
     -o-border-image: url(/img/ff4.png) 4 4;
+    padding-top: 1ex;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1ex;
 }
 nav {
     width: 20%;
     margin-left: 1em;
-    margin-right: 1em;
     vertical-align: top;
 }
 nav > ul {
@@ -27,9 +30,6 @@ nav > ul {
 aside {
     width: 70%;
     margin-left: 1em;
-    padding-left: 1em;
-    padding-right: 1em;
-    padding-bottom: 1ex;
 }
 article {
     display: block;
