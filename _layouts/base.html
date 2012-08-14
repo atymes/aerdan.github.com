@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{{page.title}} &mdash; {{site.name}}</title>
+        <link href="/files/css/base.css" rel="stylesheet">
+    </head>
+    <body>
+        <nav>
+            {% include nav.html %}
+        </nav>
+        <article>
+            <hgroup>
+                <h1>{{page.title}}</h1>
+                <h2>{{site.name}}</h2>
+            </hgroup>
+            {{ content}}
+        </article>
+        <footer>
+            <p>Content is available under the terms of the
+                <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons (BY-SA-NC 3.0 Unported)</a>
+                license unless otherwise specified.</p>
+            <p>A modern browser is encouraged; I recommend <a href="http://www.google.com/chrome/">Chrome</a>,
+                <a href="http://www.mozilla.com/firefox">Firefox</a>, <a href="http://www.opera.com">Opera</a>,
+                or Internet Explorer 9+.</p>
+        </footer>
+    </body>
+</html>
