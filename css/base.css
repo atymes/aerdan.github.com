@@ -38,6 +38,7 @@ article {
 footer {
     margin-top: 1ex;
     display: block;
+    font-size: small;
 }
 a { text-decoration: none; }
 a:link, a:visited {
