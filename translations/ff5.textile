@@ -121,7 +121,7 @@ h2. Abilities
 | ロッドそうび     | roddosoubi       | Equip Rod         | Equip {Rod}    | Equip Rods    |
 | ダッシュ         | dasshu           | Dash              | Dash           | Sprint        |
 | アンデッド       | andeddo          | Undead            | (N/A)          | Undead        |
-| ＡＢＰアップ     | ABPappu          | ABP Up            | (N/A)          | ABP Up        | 
+| ＡＢＰアップ     | ABPappu          | ABP Up            | (N/A)          | ABP Up        |
 | てきよけ         | tsukiyoke        | Avoid Enemy       | (N/A)          | Read Ahead    |
 | ＥＸＰアップ     | EXPappu          | EXP Up            | (N/A)          | EXP Up        |
 | てきよせ         | tsukiyose        | Lure Enemy        | (N/A)          | Lure          |
