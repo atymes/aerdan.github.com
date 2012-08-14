@@ -1,6 +1,8 @@
 html {
     color: #FFF;
     background-color: black;
+}
+body {
     margin: 0px auto;
 }
 article, nav {
@@ -16,13 +18,18 @@ article, nav, footer {
 nav {
     width: 20%;
     margin-left: 1em;
+    left: 1em;
 }
 article {
     width: 70%;
-    margin-left: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 1ex;
+    right: 1em;
 }
 footer {
     display: block;
+    width: 90%;
 }
 a:link, a:visited {
     color: #5FF;
