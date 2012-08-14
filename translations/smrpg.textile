@@ -1,0 +1,465 @@
+---
+layout: base
+title: Super Mario RPG Changes Guide
+---
+
+p. This game has one of the weirdest translations out of all of the games for which Woolsey was personally responsible during his employment with Squaresoft in the 90s. 
+
+h2. Abilities
+
+|_. Japanese           |_. Romaji          |_. Aerdan              |_. Woolsey    |
+| ジャンプ             | janpu             | Jump                  | Jump         |
+| ファイボール         | faibo-ru          | Fireball              | Fireball     |
+| スーパージャンプ     | su-pa-janpu       | Super Jump            | Super Jump   |
+| スーパーファイア     | su-pa-faia        | Super Fire            | Super Flame  |
+| ウルトラジャンプ     | urutorajanpu      | Ultra Jump            | Ultra Jump   |
+| ウルトラファイア     | urutorafaia       | Ultra Fire            | Ultra Flame  |
+| でんげきビリリ       | dengekibiriri     | Blitz                 | Thunderbolt  |
+| かいふくシャワー     | kaifukushawa-     | Recover Shower        | HP Rain      |
+| なにかんがえてるの   | nanikangaeteruno  | What're You Thinking? | Psychopath   |
+| かみなりドッカン     | kamitaridokkan    | Thunder Whack         | Shocker      |
+| ユキやこんこん       | yukiyakonkon      | Heavy Snow            | Snowy        |
+| キラキラおとし       | kirakiraotoshi    | Twinkling Drop        | Star Rain    |
+| ジーノビーム         | ji-nobi-mu        | Geno Beam             | Geno Beam    |
+| ジーノウェーヴ       | ji-noue-vu        | Geno Wave             | Geno Boost   |
+| ジーノカッター       | ji-nokatta-       | Geno Cutter           | Geno Whirl   |
+| ジーノブラスト       | ji-noburasuto     | Geno Blast            | Geno Blast   |
+| ジーノラッシュ       | ji-norasshu       | Geno Rush             | Geno Flash   |
+| きょうふのしょうげき | kyoufunoshougeki  | Dread Impact          | Terrorize    |
+| どくガスもこもこ     | dokugasumokomoko  | Poison Gas Fuzzy      | Poison Gas   |
+| つきでろボボーン     | tsukiderobobo-n   | Projection            | Crusher      |
+| メカクッパプレス     | mekakuppapuresu   | Mecha Koopa Press     | Bowser Crush |
+| いたいのとんでけ     | itainotondeke     | Sore Begone           | Therapy      |
+| みんなげんきになあれ | minnagenkininaare | Heal All              | Group Hug    |
+| ねむれよいこよ       | nemureyoikoyo     | Nap Time              | Sleepy Time  |
+| おねがいカムバック   | onegaikamubakku   | Please Come Back      | Come Back    |
+| おくちにチャック     | okuchinichakku    | Stuff It              | Mute         |
+| システリックボム     | shisuterikkubomu  | Sisteric Bomb         | Psych Bomb   |
+
+h2. Weapons
+
+|_. Japanese           |_. Romaji           |_. Aerdan            |_. Woolsey     |
+| すで                 | sude               | Unarmed             | Unarmed       |
+| ハンマー             | hanma-             | Hammer              | Hammer        |
+| ノコノコこうら       | nokonokokoura      | Troopa Shell        | Nok Nok Shell |
+| パンチグローブ       | panchiguro-bu      | Punch Glove         | Punch Glove   |
+| スーパーハンマー     | su-pa-hanma-       | Super Hammer        | Super Hammer  |
+| ムラっけハンマー     | marakkehanma-      | Crunch Hammer       | Masher        |
+| パタパタこうら       | patapatakoura      | Paratroopa Shell    | Troopa Shell  |
+| ハンマー             | hanma-             | Hammer              | Lucky Hammer  |
+| でかパンチグローブ   | dekapanchiguro-bu  | Dekapunch Glove     | Mega Glove    |
+| ウルトラハンマー     | urutorahanma-      | Ultra Hammer        | Ultra Hammer  |
+| ひまんパタこうら     | himanpatakoura     | Fat Troopa Shell    | Lazy Shell    |
+| ケロケロのつえ       | kerokeronotsue     | Frog Staff          | Froggie Stick |
+| シンバル             | shinbaru           | Cymbal              | Cymbals       |
+| のびパンチグローブ   | nobipanchiguro-bu  | Stretch Punch Glove | Whomp Glove   |
+| ゲコゲコのつえ       | gekogekonotsue     | Croak Staff         | Ribbit Stick  |
+| くっつきグローブ     | kuttsukiguro-bu    | Sticky Glove        | Sticky Glove  |
+| ソニックシンバル     | sonikkushinbaru    | Sonic Cymbal        | Sonic Cymbals |
+| フィンガーショット   | finga-shotto       | Finger Shot         | Finger Shot   |
+| ハンドガン           | handogan           | Handgun             | Hand Gun      |
+| スーパーダブルパンチ | su-pa-daburupanchi | Super Doublepunch   | Double Punch  |
+| ハンドキャノン       | handokyanon        | Handcannon          | Hand Cannon   |
+| スターガン           | suta-gan           | Stargun             | Star Gun      |
+| ワンワン             | wanwan             | Chain Chomp         | Chomp         |
+| ワンワンのぬけがら   | wanwannonukegari   | Chain Chomp Husk    | Chomp Shell   |
+| ぶんなげグローブ     | bunsageguro-bu     | Throwing Glove      | Hurly Gloves  |
+| トゲワンワン         | togewanwan         | Thorny Chain Chomp  | Spiked Link   |
+| ドリルクロー         | dorirukuro-        | Drill Claw          | Drill Claw    |
+| ビンタグローブ       | bintaguro-bu       | Slap Glove          | Slap Glove    |
+| パラソル             | parasoru           | Parasol             | Parasol       |
+| センス               | sensu              | Folding Fan         | War Fan       |
+| ちょービンタグローブ | cho-bintaguro-bu   | Super Slap Glove    | Super Slap    |
+| フライパン           | furaipan           | Frypan              | Frying Pan    |
+
+h2. Armor
+
+|_. Japanese         |_. Romaji        |_. Aerdan         |_. Woolsey     |
+| ふつうのつなぎ     | futsuunotsutagi | Normal Shirt     | Shirt         |
+| しっかりつなぎ     | shikkaritsutagi | Firm Shirt       | Thick Shirt   |
+| ばっちりつなぎ     | bacchiritsutagi | Fancy Shirt      | Mega Shirt    |
+| ハッピーつなぎ     | happi-tsutagi   | Happy Shirt      | Happy Shirt   |
+| セーラーつなぎ     | se-ra-tsutagi   | Sailor Shirt     | Sailor Shirt  |
+| ふかふかつなぎ     | fukafukatsutagi | Soft Shirt       | Fuzzy Shirt   |
+| ファイアつなぎ     | faiatsutagi     | Fire Shirt       | Fire Shirt    |
+| ヒーローつなぎ     | hi-ro-tsutagi   | Hero Shirt       | Hero Shirt    |
+| ふつうのパンツ     | futsuunopantsu  | Normal Pants     | Pants         |
+| しっかいパンツ     | shikkaripantsu  | Firm Pants       | Thick Pants   |
+| ばっちりパンツ     | bacchiripantsu  | Fancy Pants      | Mega Pants    |
+| ハッピーパンツ     | happi-pantsu    | Happy Pants      | Happy Pants   |
+| セーラーパンツ     | se-ra-pantsu    | Sailor Pants     | Sailor Pants  |
+| ふかふかパンツ     | fukafukapantsu  | Soft Pants       | Fuzzy Pants   |
+| ファイアパンツ     | faiapantsu      | Fire Pants       | Fire Pants    |
+| プリンスパンツ     | purinsupantsu   | Prince Pants     | Prince Pants  |
+| ばっちりマント     | bacchirimanto   | Fancy Mantle     | Mega Cape     |
+| ハッピーマント     | happi-manto     | Happy Mantle     | Happy Cape    |
+| セーラーマント     | se-ra-manto     | Sailor Mantle    | Sailor Cape   |
+| ふかふかマント     | fukafukamanto   | Soft Mantle      | Fuzzy Cape    |
+| ファイアマント     | faiamanto       | Fire Mantle      | Fire Cape     |
+| スターマント       | suta-manto      | Star Mantle      | Star Cape     |
+| ハッピーシェル     | happi-sheru     | Happy Shell      | Happy Shell   |
+| むてきのこうら     | mutekinokoura   | Invincible Shell | Courage Shell |
+| ファイアシェル     | faiasheru       | Fire Shell       | Fire Shell    |
+| ヒールシェル       | hi-rusheru      | Heel Shell       | Heal Shell    |
+| ラブラブドレス     | raburabudoresu  | Lovely Dress     | Polka Dress   |
+| セーラードレス     | se-ra-doresu    | Sailor Dress     | Nautica Dress |
+| ふかふかドレス     | fukafukadoresu  | Soft Dress       | Fuzzy Dress   |
+| ファイアドレス     | faiadoresu      | Fire Dress       | Fire Dress    |
+| プリンセスドレス   | purinsesudoresu | Princess Dress   | Royal Dress   |
+| ばっちいパンツ     | bacchiipantsu   | Dirty Pants      | Work Pants    |
+| ひまんパタこうら   | himanpatakoura  | Fat Troopa Shell | Lazy Shell    |
+| スーパージャンパー | su-pa-janpa-    | Super Jumper     | Super Suit    |
+
+h2. Accessories
+
+|_. Japanese           |_. Romaji             |_. Aerdan             |_. Woolsey    |
+| ブッキーのおまもり   | bukki-noomamori      | Bookie's Amulet      | Amulet       |
+| どくふせぎバッジ     | dokufusegibajji      | Poisonblock Badge    | Antidote Pin |
+| ジャンパースカーフ   | janpa-suka-fu        | Jumper Scarf         | Attack Scarf |
+| ラブラブリング       | raburaburingu        | Lovely Ring          | B'Tub Ring   |
+| かがやけるひのために | kagayakeruhinotameni | Twinkling Favour     | Coin Trick   |
+| あなたをこえたくて   | anatawokoetakute     | Your Excellence      | Exp. Booster |
+| きょうふふせぎバッジ | kyoufufusegibajji    | Fearless Badge       | Fearless Pin |
+| ドドのはね           | dodonohane           | Dodo's Feather       | Feather      |
+| ゆうれいくんしょう   | youreikunshou        | Ghost Medal          | Ghost Medal  |
+| ジャッキーベルト     | jakki-beruto         | Jackie Belt          | Jinx Belt    |
+| かいてんシューズ     | kaitenshu-zu         | Spinning Shoes       | Jump Shoes   |
+| クリスタルのおまもり | kurisutarunoomamori  | Crystal Amulet       | Quartz Charm |
+| ぼうぎょスカーフ     | bougyosuka-fu        | Defense Scarf        | Rare Scarf   |
+| あんしんバッジ       | anshinbajji          | Security Badge       | Safety Badge |
+| セーフティーリング   | se-futi-ringu        | Safety Ring          | Safety Ring  |
+| きみがいてくれたから | kimigaitekure        | You're Pretty Stingy | Scrooge Ring |
+| おしらせリング       | oshiraseringu        | Alert Ring           | Signal Ring  |
+| パタパタくんしょう   | patapatakunshou      | Paratroopa Medal     | Troopa Pin   |
+| へんしんふせぎバッジ | henshinfusegibajji   | Fixed Form Badge     | Trueform Pin |
+| ぼんやりふせぎバッジ | bonyarifusegibajji   | Indeceivable Badge   | Wake Up Pin  |
+| シュビビンシューズ   | shubibinshu-zu       | Sonic Shoes          | Zoom Shoes   |
+
+h2. Items
+
+|_. Japanese           |_. Romaji            |_. Aerdan          |_. Woolsey     |
+| リフレッシュジュース | refuresshuju-su     | Refresh Juice     | Able Juice    |
+| どくキノコ           | dokukinoko          | Poison Mushroom   | Bad Mushroom  |
+| カタクナール         | katakuna-ru         | (?)               | Bracer        |
+| ブリリアントカード   | buririantoka-do     | Brilliant Card    | Bright Card   |
+| カルボクッキー       | karubokukki-        | Carbo Cookie      | Carbo Cookie  |
+| ミンナカタクナール   | minnakatakuna-ru    | (?)               | Crystalline   |
+| あのころにもどりたい | anokoronimodoritai  | (?)               | Earlier Times |
+| あしはえドリンク     | ashihaedorinku      | Pure Drink        | Elixir        |
+| ツヨクナール         | tsuyokuna-ru        | (?)               | Energizer     |
+| ひりょう             | hiryou              | Fertilizer        | Fertilizer    |
+| かえんだま           | kaendama            | Flame Bomb        | Firebomb      |
+| はなび               | hanabi              | Fireworks         | Fireworks     |
+| フラワーギフト       | furawa-gifuto       | Flower Gift       | Flower Box    |
+| フラワーセット       | furawa-setto        | Flower Set        | Flower Jar    |
+| フラワーカプセル     | furawa-kapuseru     | Flower Capsule    | Flower Tab    |
+| リフレッシュオール   | refureshuo-ru       | Refresh Oil       | Freshen Up    |
+| びびりだま           | bibiridama          | Boo Bomb          | Fright Bomb   |
+| オタマドリンク       | otamudorinku        | Tadpole Drink     | Froggie Drink |
+| ふくぶくろ           | fukufukuro          | Mystery Bag       | Goodie Bag    |
+| ハニーシロップ       | honi-shiroppu       | Honey Syrup       | Honey Syrup   |
+| こおりだま           | kooridama           | Ice Bomb          | Ice Bomb      |
+| ケロケロドリンク     | kerokerodorinku     | Frog Drink        | KerokeroCola  |
+| ひつじのゆうわく     | hitsujinoyuuwaku    | Lamb's Lure       | Lamb's Lure   |
+| ラッキージュエル     | rakki-jueru         | Lucky Jewel       | Lucky Jewel   |
+| メイプルシロップ     | meipurushiroppu     | Maple Syrup       | Maple Syrup   |
+| ウルトラキノコ       | urutorakinoko       | Ultra Mushroom    | Max Mushroom  |
+| おヒレちぢみドリンク | ohirechijimidorinku | (?) Drink         | Megalixir     |
+| スーパーキノコ       | su-pa-kinoko        | Super Mushroom    | Mid Mushroom  |
+| カビはえキノコ       | kabihaekinoko       | Mold Mushroom     | Moldy Mush    |
+| ムクムクのクッキー   | mukumukunokukki-    | Plump Cookie      | Muku Cookie   |
+| キノコ               | kinoko              | Mushroom          | Mushroom      |
+| キノコ               | kinoko              | Mushroom          | Mushroom 2    |
+| ふしぎなたまご       | fushiginatamago     | Mysterious Egg    | Mystery Egg   |
+| ふっかつドリンク     | fukkatsudorinku     | Rebirth Drink     | Pick Me Up    |
+| ミンナツヨクナール   | minnatsuyokuna-ru   | (?)               | Power Blast   |
+| せいすい             | seisui              | Holy Water        | Pure Water    |
+| レッドヨッシーエキス | reddoyosshi-ekisu   | Red Yoshi Extract | Red Essence   |
+| こんぺいとう         | konpeidou           | Rock Candy        | Rock Candy    |
+| くさったキノコ       | kusattakinoko       | Decaying Mushroom | Rotten Mush   |
+| ロイヤルシロップ     | roiyarushiroppu     | Royal Syrup       | Royal Syrup   |
+| たね                 | tane                | Seed              | Seed          |
+| さよならはとつぜんに | sayonarahatotsuzenni| Good Bye (?)      | See Ya        |
+| ひつじのしょうどう   | hitsujinoshoudou    | Sheep's Impulse   | Sheep Attack  |
+| ぴかぴかいし         | pikapikaishi        | Sparkling Stone   | Shiny Stone   |
+| ねむりだま           | nemuridama          | Sleep Bomb        | Sleepy Bomb   |
+| スターのたまご       | suta-notamago       | Star Egg          | Star Egg      |
+| サイフ               | seifu               | Wallet            | Wallet        |
+| しなびたキノコ       | shinabitakino       | Wilted Mushroom   | Wilted Shroom |
+| ヨシクナール         | yosshina-ru         | Yoshi (?)         | Yoshi Aid     |
+| ヨッシーキャンディー | yosshikyandi-       | Yoshi Candy       | Yoshi Candy   |
+| ヨッシーのクッキー   | yosshinokukki-      | Yoshi's Cookie    | Yoshi Cookie  |
+
+h2. Key Items
+
+|_. Japanese           |_. Romaji           |_. Aerdan             |_. Woolsey      |
+| アルトカード         | arutoka-do         | Alto Card            | Alto Card      |
+| プチボム             | puchibomb          | Petit Bomb           | Bambino Bomb   |
+| むしかご             | mushikago          | Insect Cage          | Beetle Box     |
+| テレサのおふだ       | teresanoofuda      | Boo's Talisman       | Big Boo Flag   |
+| きゅうでんのカギ１   | kyuudennokagi1     | Palace's Key 1       | Castle Key 1   |
+| きゅうでんのカギ２   | kyuudennokagi2     | Palace's Key 2       | Castle Key 2   |
+| コオロギようかん     | koorokiyoukan      | Cricket Jelly        | Cricket Jam    |
+| コオロギせんべい     | koorokisenbei      | Cricket Cracker      | Cricket Pie    |
+| カロンのおふだ       | karonnoofuda       | Dry Bones's Talisman | Dry Bones Flag |
+| ごせんぞルームのかぎ | gosenzoru-munokagi | Music Room Key       | Elder Key      |
+| レイホーのおふだ     | reiho-noofuda      | Boo Guy Talisman     | Greaper Flag   |
+| だいじなカエルコイン | daijinakaerukoin   | Rare Frog Coin       | Rare Frog Coin |
+| じらいルームのかぎ   | jirairu-munokagi   | Minefield Room Key   | Room Key       |
+| そうこのかぎ         | soukonokagi        | Warehouse Key        | Shed Key       |
+| ソプラノカード       | sopuranoka-do      | Soprano Card         | Soprano Card   |
+| しんでんのカギ       | shindennokagi      | Temple Key           | Temple Key     |
+| テナーカード         | tena-ka-do         | Tenor Card           | Tenor Card     |
+
+h2. Enemies
+
+|_. Japanese       |_. Romaji         |_. Aerdan          |_. Woolsey                |
+| チューベエ       | chu-pee          | Squeak?           | Alley Rat                |
+| ポピン           | popin            | Popin             | Amanita                  |
+| プヨメーバ       | puyume-ba        | Jellymoeba        | Ameboid                  |
+| みらない         | miranai          | Unseen            | Apprentice               |
+| タリンチュラ     | tarinchura       | Tarantula         | Arachne                  |
+| アリのゆうしゃ   | arinoyuusha      | Heroic Ant        | Armored Ant              |
+| ソソクサ         | sosokusa         | Hurried           | Artichoker               |
+| ブラック         | burakku          | Black             | Axem Black               |
+| グリーン         | guri-n           | Green             | Axem Green               |
+| ピンク           | pinku            | Pink              | Axem Pink                |
+| オノフォース     | onofo-su         | Axem Force        | Axem Rangers             |
+| レッド           | reddo            | Red               | Axem Red                 |
+| イエロー         | iero-            | Yellow            | Axem Yellow              |
+| ドッシー         | dosshi-          | Massive           | Bahamutt                 |
+| バンダナブルー   | bandanaburu-     | Bandana Blue      | Bandana Blue             |
+| バンダナレッド   | bandanareddo     | Bandana Red       | Bandana Red              |
+| ベロ～ム         | bero~mu          | Plump Tongue      | Belome                   |
+| ズドンマーク２   | zudonma-ku2      | Bang Mk 2         | Big Bertha               |
+| キャサリン       | kyasarin         | Birdo             | Birdo                    |
+| バーディ         | ba-di            | Birdie            | Birdy                    |
+| ズドン           | zudon            | Bang              | Blaster                  |
+| ゲッソー         | gesso-           | Blooper           | Bloober                  |
+| ブルーバード     | buru-ba-do       | Bluebird          | Bluebird                 |
+| ボムへい         | bomuhei          | Bob-omb           | Bob-Omb                  |
+| からだ           | karida           | Body              | Body                     |
+| しんえいたい     | shineidai        | Bodyguard         | Bodyguard                |
+| ブーマー         | bu-ma-           | Boomer            | Boomer                   |
+| ブッキー         | bukki-           | Bookie            | Booster                  |
+| クッパ           | kuppa            | King Koopa        | Bowser                   |
+| にせクッパ       | nisekuppa        | Koopa Copy        | Bowser Clone             |
+| ユミンパ         | yuminpa          | Bowyer            | Bowyer                   |
+| ナンダベェ       | nandapee         | What?             | Box Boy                  |
+| ストロベリー     | sutoroberi-      | Strawberry        | Bundt                    |
+| ８ビート         | 8bi-to           | 8-Bit             | Buzzer                   |
+| キャロライン     | kyarorain        | Caroline          | Carroboscis              |
+| バーレルコング   | ba-rerukongu     | Barrel Kong       | Chained Kong             |
+| ナンジャロ       | nanjaro          | What Then?        | Chester                  |
+| パックンブルー   | pakkunburu-      | Chomp Blue        | Chewy                    |
+| ワンワン         | wanwan           | Chain Chomp       | Chomp                    |
+| ワン・ツー       | wan.tsu-         | One Two Chomp     | Chomp Chomp              |
+| ハイイヌドライ   | haiinudorai      | High'n'Dry        | Chow                     |
+| カカリチョウ     | kakarichou       | Official          | Clerk                    |
+| ドルトリンク     | dorutorinku      | Dortlink          | Cloaker                  |
+| クラスター       | kurasuta-        | Cluster           | Cluster                  |
+| ジタンダ         | jitanda          | No Time!          | Corkpedite               |
+| メビウス         | mebiusu          | Moebius           | Count Down               |
+| クロコ           | kuroko           | Croco             | Croco                    |
+| パチール         | pachi-ru         | Snapper           | Crook                    |
+| カーニィ         | ka-nii           | Carny             | Crusty                   |
+| クリスタラー     | kurisutara-      | Crystaleer        | Culex                    |
+| カイザードラゴン | kaiza-doragon    | Kaiser Dragon     | Czar Dragon              |
+| リンリン         | rinrin           | Ring-Ring         | Ding-a-ling              |
+| ブチョウ         | buchuu           | Director          | Director                 |
+| ドド             | dodo             | Dodo              | Dodo                     |
+| メーテルリンク   | me-terurinku     | Metallink         | Domino                   |
+| ドッペル         | dopperu          | Doppel            | Doppel                   |
+| カロン           | karon            | Dry Bones         | Dry Bones                |
+| うちのクリスタル | uchinokurisutaru | Earth Crystal     | Earth Crystal            |
+| アースリンク     | a-surinku        | Earth Link        | Earth Link               |
+| タマタマ         | tamatama         | Unexpected        | Eggbert                  |
+| バットン         | batton           | Button            | Enigma                   |
+| カリバー         | kariba-          | Caliber           | Exor                     |
+| コウジョウチョウ | koujouchou       | Factory Manager   | Factory Chief            |
+| モックン         | mokkun           | Mokkun            | Fautso                   |
+| フラワーリップ   | furawa-rippu     | Pirahna Lip       | Fink Flower              |
+| ひのクリスタル   | hinokurisutaru   | Fire Crystal      | Fire Crystal             |
+| ブブル           | buburu           | Booble(?)         | Fireball                 |
+| オイスター       | oisuta-          | Oyster            | Forkies                  |
+| しょうたいふめい | shoutaifumei     | Unidentified      | Formless                 |
+| リチャード       | richa-do         | Richard           | Frogog                   |
+| レオンレッド     | reonreddo        | Leon Red          | Geckit                   |
+| レオン           | reon             | Leon              | Gecko                    |
+| にせジーノ       | niseji-no        | Forgeno           | Geno Clone               |
+| ヨロレイホー     | yororeiho-       | Armor Boo Guy     | Glum Reaper              |
+| プクプク         | pukupuku         | Pukupuku          | Goby                     |
+| クリボー         | kuribo-          | Goomba            | Goomba                   |
+| マメクリボー     | mamekuribo-      | Diligent Goomba   | Goombette                |
+| バットントン     | battonton        | Buttonton         | Gorgon                   |
+| クラウンおとうと | kuraunotouto     | Younger Crown Bro | Grate Guy                |
+| レイホー         | reiho-           | Boo Guy           | Greaper                  |
+| ミラクリボー     | mirakuribo-      | Hyper Goomba      | Gu Goomba                |
+| ドンキーユング   | donki-ungu       | Donkey Young      | Guerrilla                |
+| ラスダーン       | rasuda-n         | Rasdarn           | Gunyolk                  |
+| ハンマーブロス   | hanma-burosu     | Hammer Bros.      | Hammer Bros.             |
+| ヒマンパタ       | himanpata        | Fat Paratroopa    | Heavy Troopa             |
+| かざんだん       | kajindan         | Volcanic Fire     | Helio                    |
+| ナンダロナ       | nandarona        | What The?!        | Hidon                    |
+| フッポポ         | fuppopo          | Fuppopo           | Hippopo                  |
+| ピエール         | pie-ru           | Pierre            | Hobgoblin                |
+| ツッツクン       | tsuttsukun       | Poker             | Jabit                    |
+| ノコヤン         | nokoyan          | Yan Koopa         | Jagger                   |
+| デミグラ         | demigura         | Demigra           | Jawful                   |
+| ダウト           | dauto            | Doubt             | Jester                   |
+| ジャッキー       | jakki-           | Jackie            | Jinx                     |
+| ニセジャッキー   | nisejakki-       | Jackie Clone      | Jinx Clone               |
+| ジョナサン       | jonasan          | Jonathan          | Johnny                   |
+| キングボム       | kingubomu        | King Bomb         | King Bomb                |
+| タコつぼゲッソー | dakotsubogesso-  | Pot Blooper       | King Calamari            |
+| シャンデリワン   | shanderiwan      | Chandelink        | Kinklink                 |
+| クラウンあに     | kuraunata        | Older Crown Bro   | Knife Guy                |
+| カサカサアロエ   | kasakasaaroe     | Rustling Aloe     | Kriffid                  |
+| ジュゲム         | jugemu           | Lakitu            | Lakitu                   |
+| ひだりめ         | hidarime         | Left Eye          | Left Eye                 |
+| クララ           | kurara           | Clara             | Leuko                    |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Black  |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Green  |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Pink   |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Red    |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Axem Yellow |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Bowyer      |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Drill Bit   |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Mack        |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Shyster     |
+| りょうさんがた   | ryousangate      | Machined Model    | Machine-Made Yaridovich  |
+| ケンゾール       | kenzo-ru         | Sworzerer         | Mack                     |
+| メルクリンク     | merukurinku      | Merclink          | Mad Adder                |
+| トン             | ton              | Ton               | Mad Mallet               |
+| カメザード       | kameza-do        | Magikoopa         | Magikoopa                |
+| マグメット       | magumetto        | Magmet            | Magmite                  |
+| メグメット       | megumetto        | Megmet            | Magmus                   |
+| にせマロ         | nisemaro         | Mock Mallow       | Mallow Clone             |
+| パタパタダッシュ | patapatadasshu   | Paratroopa Dash   | Malakoopa                |
+| カチョウ         | kachou           | Section Chief     | Manager                  |
+| にせマリオ       | nisemario        | Mock Mario        | Mario Clone              |
+| マンゾー         | manzo-           | Manzor            | Mastadoom                |
+| クィーンフラワー | kui-nfurawa-     | Queen Pirahna     | Megasmilax               |
+| ビックボム       | bikkubomu        | Big Bomb          | Mezzo Bomb               |
+| プチボム         | puchibomu        | Petit Bomb        | Microbomb                |
+| モクラクラー     | mokurakura-      | So Dizzy          | Mokura                   |
+| ピチピチ         | pichipichi       | Chirp-Chirp       | Mr. Kipper               |
+| ハイクララ       | haikurara        | High Clara        | Muckle                   |
+| ムクムク         | mukumuku         | Plump             | Mukumuku                 |
+| くち             | kuchi            | Mouth             | Neosquid                 |
+| ニンジャくん     | ninjakun         | Mr Ninja          | Ninja                    |
+| タコロン         | takoron          | Octopus           | Octolot                  |
+| タコベーダー     | takobe-da-       | Octovader         | Octovader                |
+| ウニへい         | unihei           | Thorn Spiney      | Oerlikon                 |
+| ポポ             | popo             | Popo              | Orb User                 |
+| ロロ             | roro             | Lolo              | Orbison                  |
+| ナンダロウ       | nandarou         | What?             | Pandorite                |
+| ヘクトバール     | hekutoba-ru      | Hectorball        | Pinwheel                 |
+| パックンフラワー | pakkunfurawa-    | Pirahna Plant     | Pirahna Plant            |
+| テン             | ten              | Ten               | Pounder                  |
+| カン             | kan              | Kan               | Poundette                |
+| ルピー           | rupi-            | Rupee             | Pulsar                   |
+| ペパット         | pepatto          | Puppet            | Punchinello              |
+| ヒノキボット     | hinokibotto      | Cypress Bot       | Puppox                   |
+| ボブル           | boburu           | Bobble            | Pyrosphere               |
+| ラスベリー       | rasuberi-        | Raspberry         | Raspberry                |
+| チュータロウ     | chu-tarou        | Squeak            | Rat Funk                 |
+| グレイビー       | gureibi-         | Gravy             | Reacher                  |
+| キボット         | kibotto          | Ki Bot            | Remo Con                 |
+| リチャード２せい | richa-do2sei     | Richard No. 2     | Ribbite                  |
+| みぎめ           | migime           | Right Eye         | Right Eye                |
+| ハイボム         | haibomu          | High Bomb         | Rob-Omb                  |
+| パクール         | paku-ru          | Packearl          | Sackit                   |
+| シャドウ         | shadou           | Shadow            | Shadow                   |
+| スペール         | supe-ru          | Spell             | Shaman                   |
+| あやしげなカラ   | ayushigesakara   | Suspicious Within | Shelly                   |
+| アントウォリアー | antouoria        | Ant Warrior       | Shogun                   |
+| トンダリヤ       | tondariya        | Beezo             | Shy Away                 |
+| ヘイホー         | heiho-           | Shy Guy           | Shy Guy                  |
+| アーミーヘイホー | a-mi-heiho-      | Shy Soldier       | Shy Ranger               |
+| できたてヘイパー | dekitateheiho-   | Shy Bot           | Shyper                   |
+| ヘイパー         | heipa-           | Shy Hop           | Shyster                  |
+| パタパタ         | patapata         | Paratroopa        | Sky Troopa               |
+| ハイヘイホー     | haiheiho-        | Shy High          | Sling Shy                |
+| ようこうろ       | youkouro         | Blast Furnace     | Smelter                  |
+| つぼみ           | tsubomi          | Pirahna Bud       | Smilax                   |
+| カジオー         | kajio-           | King Forgisto     | Smithy                   |
+| イヴ             | ivu              | Eve               | Snapdragon               |
+| ブッカー         | bukka-           | Snifit            | Snifit                   |
+| バブル           | baburu           | Bubble            | Sparky                   |
+| イガへい         | igahei           | Burr Spiney       | Spikester                |
+| トゲへい         | tokehei          | Sharp Spiney      | Spikey                   |
+| ワカッチュラ     | wakacchura       | Separanchula      | Spinthra                 |
+| ムーチョ         | mu-cho           | Macho Snifit      | Spookum                  |
+| ヘイパワー       | heipawa-         | Shy Power         | Springer                 |
+| スターカーニィ   | suta-ka-nii      | Star Carni        | Star Cruster             |
+| ヒトデナシ       | hitodenashi      | Miscreant         | Starslap                 |
+| ８ビートレッド   | 8bi-toreddo      | 8-Bit Red         | Stinger                  |
+| エドワード       | edowa-do         | Edward            | Straw Head               |
+| フンガー         | funga-           | Fungar            | Stumpet                  |
+| イカのあし       | ikanoashi        | Squid's Tentacle  | Tentacles                |
+| ノコへいレッド   | nokoheireddo     | Koopa Guy Red     | Terra Cotta              |
+| ノコへい         | nokohei          | Koopa Guy         | Terrapin                 |
+| テレサ           | teresa           | Boo               | The Big Boo              |
+| にせピーチ       | nisepi-chi       | Peach Prank       | Toadstool 2              |
+| ノコック         | nokokku          | Koopa Chef        | Torte                    |
+| チャンコパタ     | chankopata       | Heavy Paratroopa  | Tub-O-Troop              |
+| みずのクリスタル | mizunokurisutaru | Water Crystal     | Water Crystal            |
+| マルガリータ     | marugari-da      | Margherita        | Valentina                |
+| カロンゼット     | karonzetto       | Zetta Dry Bones   | Vomer                    |
+| ハナチャン       | hanachan         | Wiggler           | Wiggler                  |
+| かぜのクリスタル | kazenokurisutaru | Wind Crystal      | Wind Crystal             |
+| ヤリドヴィッヒ   | yaridovihhi      | Yaridovich        | Yaridovich               |
+| ロクデナシ       | rokudenashi      | Bum               | Zeostar                  |
+| ドラゴンゾンビ   | doragonzonbi     | Dragon Zombie     | Zombone                  |
+
+h2. Places
+
+|_. Japanese               |_. Romaji                 |_. Aerdan                    |_. Woolsey          |
+| マリオの家               | marionoie                | Mario's House               | Mario's Pad        |
+| クッパ城                 | kuppashiro               | Koopa Keep                  | Bowser's Keep      |
+| クッパ城の見える丘       | kuppashironoaimamierooka | Hill Overlooking Koopa Keep | Vista Hill         |
+| マッシュロード           | masshuro-do              | Mushroad                    | Mushroom Way       |
+| キノコ城                 | kinokoshiro              | Mushroom Keep               | Mushroom Kingdom   |
+| 宿屋                     | yadoya                   | Inn                         | Inn                |
+| 道具屋                   | douguya                  | Secondhand Shop             | (?)                |
+| ピーチ姫の部屋           | pi-chihimenoheya         | Princess Peach's Room       | (?)                |
+| どろぼうロード           | dorobouro-do             | Robber Road                 | Bandit's Way       |
+| キノケロ水路             | kinokerosuiro            | Mushroom/Frog Waterway      | Kero Sewers        |
+| ワイン川のほとり         | wainkawanohotori         | Wine River's Shore          | Midas River        |
+| ケロケロ湖               | kerokeroko               | Frog Lake                   | Tadpole Pond       |
+| メロディ・ベイ           | merodi-bei               | Melody Bay                  | (?)                |
+| ケローズ                 | kero-zu                  | Croakus                     | Rose Way           |
+| ローズタウン             | ro-zutaun                | Rose Town                   | Rose Town          |
+| ハナチャンの森           | hanachannomori           | Wriggler Forest             | Forest Maze        |
+| パイプダンジョン         | paipudanjon              | Pipe Dungeon                | Pipe Vault         |
+| ヨースター島             | yo-suta-tou              | Yo'ster Island              | Yo'ster Isle       |
+| ドゥカティ               | dukati                   | Ducaty                      | Moleville(?)       |
+| 炭坑                     | tankou                   | Coal Mine                   | (?)                |
+| イガ谷                   | igatani                  | Burr Valley                 | (?)                |
+| ブッキータワー           | bukki-tawa-              | Bookie's Tower              | Booster Tower      |
+| ブッキー坂               | bukki-saka               | Bookie's Hill               | Booster Hill       |
+| メリー・マリー村         | meri-.mari-mura          | Merry Marry Village         | Marrymore          |
+| メリー・マリー・ホテル   | meri-.mari-.hoteru       | Merry Marry Hotel           | Marrymore Hotel    |
+| 星のふる丘               | hashinofuruoka           | Star's Fall Hill            | Star Hill          |
+| リップルタウン           | rippurutaun              | Ripple Town                 | Seaside Town       |
+| 海                       | umi                      | Sea                         | Sea                |
+| ちんぼつ船               | chinbotsufune            | Sunken Ship                 | Sunken Ship        |
+| カブト虫買い取りセンター | kabutomushikaitorisenta- | Beetles'R'Us                | (?)                |
+| 武器・ぼう具屋           | buki.boukuya             | Weapon Shop                 | (?)                |
+| けんこう食品店           | kenkoushokuhinten        | Health Shop                 | (?)                |
+| キノコ大好きボ～イのお店 | kinokodaisukibo-inootana | Mushroom Fanshop            | (?)                |
+| アクセサリーショップ     | akusesari-shoppu         | Accessory Shop              | (?)                |
+| カントリーロード         | kantori-ro-do            | Country Road                | Land's End(?)      |
+| ベロ～ムしんでん         | bero~mushinden           | Plump Tongue's Temple       | Belome's Temple    |
+| モンスタウン             | monsutaun                | Monstown                    | Monstro Town       |
+| ビーンズバレー           | bi-nzubare-              | Beans Valley                | Bean Valley        |
+| クラウンカジノ           | kuraunkajino             | Clown Casino                | Grate Guy's Casino |
+| マシュマロの国           | mashumaronokuni          | Marshmallow Country         | Nimbus Land        |
+| ちょうこくか　ガロの家   | choukokuka garonoie      | Sculptor Galo's House       | (?)                |
+| ムューシカー             | myu-shika-               | Musica                      | (?)                |
+| バーレル火山             | ba-rerukazan             | Barrel Volcano              | Barrel Volcano     |
+| ヒノマート               | hinoma-to                | Hinomart                    | (?)                |
+| 武器世界へ               | bukisakai                | Weapon World                | (?)                |
+| 武器工場                 | bukikoujou               | Weapons Factory             | (?)                |
+

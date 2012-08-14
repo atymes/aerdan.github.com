@@ -1,0 +1,16 @@
+---
+layout: base
+title: Translations
+---
+
+p. I'm not a professional translator, nor do I particularly aspire to be given my disabilities, but despite those same issues, here is a list of the non-dialogue translations I've done. If you would like me to do similar work, please contact me; I can be reached <a href="mailto:kiyoshi.aman@gmail.com">via e-mail</a>.
+
+p. All of my translations are my original work and are released under the Creative Commons Attribution/Share Alike/Non-Commercial 3.0 license; other translations alongside, if any, are copyright by their respective creators.
+
+* "Chrono Trigger":chronotrigger.html
+* "Final Fantasy IV":ff4.html
+* "Final Fantasy V":ff5.html
+* "Final Fantasy: Mystic Quest":mysticquest.html
+* "Secret of Mana":secretofmana.html
+* "Super Mario RPG: The Legend of the Seven Stars":smrpg.html
+

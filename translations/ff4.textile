@@ -1,0 +1,612 @@
+---
+layout: base
+title: Final Fantasy IV Changes Guide
+---
+
+p. At last count, there have been six releases of Final Fantasy IV, with varying levels of accuracy (from 'questionable' for the original Super NES translation to 'pretty decent' for the Game Boy Advance and PlayStation Portable releases). I'm not going to cover all of the releases, however; that would be a waste of time, owing to how similar most of them are. Instead, I will focus on Final Fantasy IV Advance and Final Fantasy IV DS.
+
+h2. Final Fantasy IV Advance
+
+h3. Weapons
+
+|_. Japanese       |_. Romaji          |_. Aerdan           |_. Official       |
+| ほのおのつめ     | honoonotsume      | Blazing Claw       | Fire Claw        |
+| こおりのつめ     | koorinotsume      | Freezing Claw      | Ice Claw         |
+| いかずちのつめ   | ikazuchinotsume   | Thundering Claw    | Thunder Claw     |
+| ようせいのつめ   | youseinotsume     | Faerie's Claw      | Fairy Claw       |
+| じごくのつめ     | jigokunotsume     | Hell Claw          | Hell Claw        |
+| ねこのつめ       | nekonotsume       | Cat's Claw         | Cat Claw         |
+| ロッド           | roddo             | Rod                | Rod              |
+| アイスロッド     | aisuroddo         | Ice Rod            | Ice Rod          |
+| フレイムロッド   | fureimuroddo      | Flame Rod          | Flame Rod        |
+| サンダーロッド   | sanda-roddo       | Thunder Rod        | Thunder Rod      |
+| へんげのロッド   | hengenoroddo      | Changer's Rod      | Rod of Change    |
+| ようせいのロッド | youseinoroddo     | Faerie's Rod       | Fairy Rod        |
+| ほしくずのロッド | hoshikuzunoroddo  | Stardust Rod       | Stardust Rod     |
+| リリスのロッド   | ririsunoroddo     | Lilith's Rod       | Lilith's Rod     |
+| つえ             | tsue              | Staff              | Staff            |
+| いやしのつえ     | iyashinotsue      | Healing Staff      | Healing Staff    |
+| ミスリルのつえ   | misurirunotsue    | Mithril Staff      | Mithril Staff    |
+| ちからのつえ     | chikaranotsue     | Power Staff        | Power Staff      |
+| はどうのつえ     | hadounotsue       | Wave Staff         | Kinesis Staff    |
+| けんじゃのつえ   | kenjanotsue       | Sage Staff         | Sage's Staff     |
+| ルーンのつえ     | ru-nnotsue        | Rune Staff         | Rune Staff       |
+| あんこくのつるぎ | ankokunotsurugi   | Gloom's Edge       | Dark Sword       |
+| シャドーブレイド | shado-bureido     | Shadowblade        | Shadow Blade     |
+| デスブリンガー   | desuburinga-      | Deathbringer       | Deathbringer     |
+| でんせつのつるぎ | densetsunotsurugi | Legendary Sword    | Sword of Legend  |
+| ひかりのつるぎ   | hikarinotsurugi   | Scintillant Sword  | Light Sword      |
+| エクスカリバー   | ekusukariba-      | Excalibur          | Excalibur        |
+| フレイムソード   | fureimuso-do      | Flame Sword        | Flame Sword      |
+| アイスブランド   | aisuburando       | Icebrand           | Ice Brand        |
+| ディフェンダー   | difenda-          | Defender           | Defender         |
+| ブラッドソード   | buraddoso-do      | Blood Sword        | Blood Sword      |
+| こだいのつるぎ   | kodainotsurugi    | Ancient Sword      | Ancient Sword    |
+| ねむりのけん     | nemurinoken       | Slumbering Sword   | Sleep Sword      |
+| ブレイクブレイド | bureikubureido    | Break Blade        | Gorgon Blade     |
+| スピア           | supia             | Spear              | Spear            |
+| ウインドスピア   | windosupia        | Wind Spear         | Wind Spear       |
+| ほのおのやり     | honoonoyari       | Blazing Spear      | Fire Lance       |
+| こおりのやり     | koorinoyari       | Freezing Spear     | Ice Lance        |
+| ひりゅうのやり   | hiryuunoyari      | Dragon Lance       | Wyvern Lance     |
+| ホーリーランス   | ho-ri-ransu       | Holy Lance         | Holy Lance       |
+| ブラッドランス   | buraddoransu      | Blood Lance        | Blood Lance      |
+| グングニル       | gunguniru         | Gungnir            | Gungnir          |
+| くない           | kunai             | Kunai              | Kunai            |
+| あしゅら         | ashura            | Ashura             | Ahura            |
+| こてつ           | kotetsu           | Kotetsu            | Kotetsu          |
+| きくいちもんじ   | kikuichimonji     | Kiku-Ichimonji     | Kikuichimonji    |
+| ムラサメ         | murasame          | Murasame           | Murasame         |
+| マサムネ         | masamune          | Masamune           | Masamune         |
+| アサシンダガー   | asashindaga-      | Assassin Dagger    | Assassin Dagger  |
+| メイジマッシャー | meijimassha-      | Mage Masher        | Mage Masher      |
+| むち             | muchi             | Lash               | Whip             |
+| チェンウィップ   | chenwippu         | Chain Whip         | Chain Whip       |
+| でんげきむち     | dengekimuchi      | Shock Lash         | Blitz Whip       |
+| ファイアビュート | faiabyu-to        | Fire Vute          | Fire Whip        |
+| りゅうのひげ     | ryuunohige        | Dragon's Whisker   | Dragon's Whisker |
+| ハンドアクス     | handoakusu        | Hand Axe           | Hand Axe         |
+| ドワーフのおの   | dowa-funoono      | Dwarf's Axe        | Dwarf Axe        |
+| オーガキラー     | o-gakira-         | Ogrekiller         | Ogrekiller       |
+| ミスリルナイフ   | misurirunaifu     | Mithril Knife      | Mythril Knife    |
+| ダンシングダガー | danshingudaga-    | Dancing Dagger     | Dancing Dagger   |
+| ミスリルソード   | misuriruso-do     | Mithril Sword      | Mythril Sword    |
+| ほうちょう       | houchou           | Kitchen Knife      | Knife            |
+| ラグナロク       | ragunaroku        | Ragnarok           | Ragnarok         |
+| しゅりけん       | shuriken          | Shuriken           | Shuriken         |
+| ふうましゅりけん | fuumashuriken     | Fuuma Shuriken     | Fuma Shuriken    |
+| ブーメラン       | bu-meran          | Boomerang          | Boomerang        |
+| えんげつりん     | engetsurin        | Full Moon Ring     | Full Moon        |
+| ゆめのたてごう   | yumenotategou     | Dream's Harp       | Dreamer's Harp   |
+| ラミアのたてごう | ramianotategou    | Lamia's Harp       | Lamia's Harp     |
+| ポイズンアクス   | poizunakusu       | Poison Axe         | Poison Axe       |
+| ルーンアクス     | ru-nakusu         | Rune Axe           | Rune Axe         |
+| ミスリルハンマー | misuriruhanma-    | Mithril Hammer     | Mythril Hammer   |
+| だいちのハンマー | daichinohanma-    | Earth Hammer       | Gaia Hammer      |
+| きづち           | kizuchi           | Mallet             | Wooden Hammer    |
+| アヴェンジャー   | avenja-           | Avenger            | Avenger          |
+| ゆみ             | yumi              | Bow                | Bow              |
+| クロスボウ       | kurosubou         | Crossbow           | Crossbow         |
+| グレートボウ     | gure-tobou        | Greatbow           | Great Bow        |
+| キラーボウ       | kira-bou          | Killer Bow         | Killer Bow       |
+| エルフィンボウ   | erufinbou         | Elfin Bow          | Elven Bow        |
+| よいちのゆみ     | yoichinoyumi      | Yoichi's Bow       | Yoichi's Bow     |
+| アルテミスのゆみ | arutemisunoyumi   | Artemis's Bow      | Artemis's Bow    |
+| てつのや         | tetsunoya         | Iron Arrow         | Iron Arrow       |
+| せいなるや       | seinaruya         | Sacred Arrow       | Holy Arrow       |
+| ほのおのや       | honoonoya         | Blazing Arrow      | Fire Arrow       |
+| こおりのや       | koorinoya         | Freezing Arrow     | Ice Arrow        |
+| いかずちのや     | ikazuchinoya      | Thundering Arrow   | Thunder Arrow    |
+| くらやみのや     | kurayaminoya      | Darkness Arrow     | Dark Arrow       |
+| どくや           | dokuya            | Poison Arrow       | Poison Arrow     |
+| くちふうじのや   | kuchifuujinoya    | Silence[1] Arrow   | Mute Arrow       |
+| てんしのや       | tenshinoya        | Angel Arrow        | Angel Arrow      |
+| メヂューサのや   | medyu-sa-noya     | Medusa's Arrow     | Medusa Arrow     |
+| アルテミスのや   | arutemisunoya     | Artemis's Arrow    | Artemis Arrow    |
+| ゴッドハンド     | goddohando        | Godhand            | Hand of the Gods |
+| アポロンのハープ | aporonnoha-pu     | Apollo's Harp      | Apollo's Harp    |
+| トリトンダガー   | toritondaga-      | Triton's Dagger    | Triton's Dagger  |
+| セラフィムメイス | serafimumeisu     | Seraphim Mace      | Seraphim's Mace  |
+| トールハンマー   | to-ruhanma-       | Thor's Hammer      | Thor's Hammer    |
+| ライトブリンガー | raitoburinga-     | Lightbringer       | Lightbringer     |
+| ライトプリンガー | raitopuringa-     | Lightpringer       | Flandango        |
+| エクスカリパー   | ekusukaripa-      | Excaliburn         | Caliburn         |
+| ランスオブアベル | ransuobuaberu     | Abel's Lance       | Abel's Lance     |
+| フレアスレッジ   | fureasurejji      | Flare Sledge       | Fiery Hammer     |
+| ニルヴァーナ     | niruva-na         | Nirvana            | Nirvana          |
+| アスラのロッド   | asuranoroddo      | Asura's Rod        | Asura's Rod      |
+| サスケのかたな   | sasukenokatana    | Sasuke's Katana    | Sasuke's Katana  |
+| むつのかみ       | mutsunokami       | Mutsu Nokami       | Mutsu Nokami     |
+| ミスティビュート | misutibyu-to      | Misty Vute         | Mist Whip        |
+| ペルセウスのゆみ | peruseusunoyumi   | Perseus's Bow      | Perseus's Bow    |
+| ペルセウスのや   | peruseusunoya     | Perseus's Arrow    | Perseus Arrow    |
+| タイガーファング | taiga-fangu       | Tiger Fang         | Tiger Fang       |
+| ドラゴンクロー   | doragonkuro-      | Dragon Claw        | Dragon Claw      |
+| ロキのたてごう   | rokinotategou     | Loki's Harp        | Loki's Lute      |
+| ライジングサン   | raijingusan       | Rising Sun         | Rising Sun       |
+| アサシンダガー   | asashindaga-      | Assassin Dagger[2] | Assassin Dagger  |
+| ギガントアクス   | gigantoakusu      | Gigant Axe         | Gigant Axe       |
+| こぶたのしない   | kobutanoshinai    | Shoat's Shinai     | Piggy's Stick    |
+| てつクズ         | tetsukuzu         | Iron Scrap         | Scrap Metal      |
+| レクイエムハープ | rekuiemuha-pu     | Requiem Harp       | Requiem Harp     |
+
+fn1. literally 'mouth-seal'
+
+fn2. This weapon appears twice because two different weapons share the same exact name. I suspect the only reason nobody noticed the duplicate name because by the time you get this one, you'll have sold the other one.
+
+h3. Armor
+
+|_. Japanese       |_. Romaji         |_. Aerdan                 |_. Official        |
+| アイアンシールド | aianshi-rudo     | Iron Shield              | Iron Shield       |
+| あんこくのたて   | ankokunotate     | Gloomy Shield            | Dark Shield       |
+| デモンズシールド | demonzushi-rudo  | Demon's Shield           | Demon Shield      |
+| ひかりのたて     | hikarinotate     | Shimmering Shield        | Light Shield      |
+| ミスリルシールド | misurirushi-rudo | Mithril Shield           | Mythril Shield    |
+| フレイムシールド | fureimushi-rudo  | Flame Shield             | Flame Shield      |
+| アイスシールド   | aisushi-rudo     | Ice Shield               | Ice Shield        |
+| ダイヤシールド   | daiyashi-rudo    | Diamond Shield           | Diamond Shield    |
+| イージスシールド | i-jisushi-rudo   | Aegis Shield             | Aegis Shield      |
+| げんじのたて     | genjinotate      | Genji's Shield           | Genji Shield      |
+| ドラゴンシールド | doragonshi-rudo  | Dragon Shield            | Dragon Shield     |
+| クリスタルのたて | kurisutarunotate | Crystal Shield           | Crystal Shield    |
+| アイアンヘルム   | aianherumu       | Iron Helm                | Iron Helm         |
+| あんこくのかぶと | ankokunokabuto   | Gloomy Helm              | Dark Helm         |
+| ハデスのかぶと   | hadesunokabuto   | Hades' Helm              | Hades Helm        |
+| デモンズヘルム   | demonzuherumu    | Demon's Helm             | Demon Helm        |
+| ひかりのかぶと   | hikarinokabuto   | Shimmering Helm          | Light Helm        |
+| ミスリルヘルム   | misuriruherumu   | Mithril Helm             | Mithril Helm      |
+| ダイヤのかぶと   | daiyanokabuto    | Diamond Helmet           | Diamond Helm      |
+| げんじのかぶと   | genjinokabuto    | Genji's Helmet           | Genji Helm        |
+| ドラゴンヘルム   | doragonherumu    | Dragon Helm              | Dragon Helm       |
+| クリスタルヘルム | kurisutaruherumu | Crystal Helm             | Crystal Helm      |
+| かわのぼうし     | kawanoboushi     | Hide Cap                 | Leather Cap       |
+| はねつきぼうし   | hanetsukiboushi  | Feathered Cap            | Feathered Cap     |
+| さんかくぼうし   | sankakuboushi    | Triangle Cap             | Wizard's Hat      |
+| しさいのぼうし   | shisainoboushi   | Priest's Cap             | Sage's Miter      |
+| きんのかみかざり | kinnokamikazari  | Gold Hairpin             | Gold Hairpin      |
+| リボン           | ribon            | Ribbon                   | Ribbon            |
+| ねじりはちまき   | nejirihachimaki  | Twist Headband           | Twist Headband    |
+| グリーンベレー   | guri-nbere-      | Green Beret              | Green Beret       |
+| くろずきん       | kurozukin        | Black Cowl               | Black Cowl        |
+| ガラスのマスク   | garasunomasuku   | Glass Mask               | Glass Mask        |
+| アイアンアーマー | aiana-ma-        | Iron Armor               | Iron Armor        |
+| あんこくのよろい | ankokunoyoroi    | Gloomy Armor             | Dark Armor        |
+| ハデスのよろい   | hadesunoyoroi    | Hades' Armor             | Hades Armor       |
+| デモンズアーマー | demonzua-ma-     | Demon's Armor            | Demon Armor       |
+| ナイトのよろい   | naitonoyoroi     | Knight's Armor           | Knight's Armor    |
+| ミスリルアーマー | misurirua-ma-    | Mithril Armor            | Mithril Armor     |
+| フレイムメイル   | fureimumeiru     | Flame Mail               | Flame Mail        |
+| アイスアーマー   | aisua-ma-        | Ice Armor                | Ice Armor         |
+| ダイヤアーマー   | daiyaa-ma-       | Diamond Armor            | Diamond Armor     |
+| げんじのよろい   | genjinoyoroi     | Genji's Armor            | Genji Armor       |
+| ドラゴンメイル   | doragonmeiru     | Dragon Mail              | Dragon Armor      |
+| クリスタルメイル | kurisutarumeiru  | Crystal Mail             | Crystal Mail      |
+| ふく             | fuku             | Outfit                   | Clothes           |
+| かわのふく       | kawanofuku       | Hide Outfit              | Leather Garb      |
+| だいちのころも   | daichinokoromo   | Earthy Clothes           | Gaia Gear         |
+| しさいのローブ   | shisainoro-bu    | Priest's Robe            | Sage's Surplice   |
+| くろのローブ     | kuronoro-bu      | Black Robe               | Black Robe        |
+| ひかりのローブ   | hikarinoro-bu    | Shimmering Robe          | Light Robe        |
+| しろのローブ     | shironoro-bu     | White Robe               | White Robe        |
+| ちからだすき     | chikaradasuki    | Power Sash               | Power Sash        |
+| ミネルバビスチェ | minerubabisuche  | Minerva Bustier          | Minverva's Plate  |
+| しゅうじんのふく | shuujinnofuku    | Prisoner's Outfit        | Prisoners' Wear   |
+| しじんのふく     | shijinnofuku     | Bard's Outfit            | Bard's Tunic      |
+| けんぽうぎ       | kenpougi         | Kempo Uniform            | Kenpogi           |
+| くろおびどうぎ   | kuroobidougi     | Black Belt Uniform       | Black Belt        |
+| アダマンアーマー | adamana-ma-      | Adamantium Armor         | Adamant Armor     |
+| くろしょうぞく   | kuroshouzoku     | Black Costume            | Black Garb        |
+| てつのこて       | tetsunokote      | Iron Bracer              | Iron Gloves       |
+| あんこくのこて   | ankokunokote     | Gloomy Bracer            | Dark Gloves       |
+| ハデスのこて     | hadesunokote     | Hades' Bracer            | Hades Gloves      |
+| あくまのこて     | akumanokote      | Demon Bracer             | Demon Gloves      |
+| ガントレット     | gantoretto       | Gauntlet                 | Gauntlets         |
+| ミスリルのこて   | misurirunokote   | Mithril Bracer           | Mythril Gloves    |
+| ダイヤのこて     | daiyanokote      | Diamond Bracer           | Diamond Gloves    |
+| きょじんのこて   | kyojinnokote     | Giant's Bracer           | Giant's Gloves    |
+| げんじのこて     | genjinokote      | Genji's Bracer           | Genji Gloves      |
+| ドラゴンのこて   | doragonnokote    | Dragon Bracer            | Dragon Gloves     |
+| クリスタルのこて | kurisutarunokote | Crystal Bracer           | Crystal Gloves    |
+| てつのうでわ     | tetsunoudewa     | Iron Bangle              | Iron Ring         |
+| ルビーのゆびわ   | rubi-noyubiwa    | Ruby Ring                | Ruby Ring         |
+| ぎんのうでわ     | ginnoudewa       | Silver Bangle            | Silver Armlet     |
+| パワーリスト     | pawa-risuto      | Power Wrist              | Power Armlet      |
+| ルーンのうでわ   | ru-nnoudewa      | Rune Bangle              | Rune Armlet       |
+| クリスタルリング | kurisutaruringu  | Crystal Ring             | Crystal Armlet    |
+| ダイヤのうでわ   | daiyanoudewa     | Diamond Bangle           | Diamond Armlet    |
+| まもりのゆびわ   | mamorinoyubiwa   | Protect Ring             | Protect Ring      |
+| のろいのゆびわ   | noroinoyubiwa    | Cursed Ring              | Cursed Ring       |
+| りゅうきしのこて | ryuukishinokote  | Dragon Knight's Bracer   | Dragoon Gloves    |
+| ハンゾウのこて   | hanzounokote     | Hanzou's Bracer          | Hanzo Gloves      |
+| おうぎのうでわ   | ouginoudewa      | Mysterious Bangle        | Discipline Armlet |
+| しろのゆびわ     | shiroyubiwa      | White Ring               | White Ring        |
+| ミスとリング     | misutoringu      | Mist Ring                | Mist Ring         |
+| ハーモニーリング | ha-moni-ringu    | Harmony Ring             | Harmonious Ring   |
+| ツインスターズ   | tsuinsuta-zu     | Twin Stars               | Twin Stars        |
+| ブレイブスーツ   | bureibusu-tsu    | Brave Suit               | Courageous Suit   |
+| レッドジャケット | reddojaketto     | Red Jacket               | Red Jacket        |
+| けんじゃのローブ | kenjanoro-bu     | Sage's Robe              | Sage's Robe       |
+| ローブオブロード | ro-buoburo-do    | Robe of Lords            | Lord's Robe       |
+| グランドアーマー | gurandoa-ma-     | Grand Armor              | Grand Armor       |
+| びゃっこのかめん | byakkonokamen    | Byakko's Mask            | Funny Mask        |
+| レッドキャップ   | reddokyappu      | Red Cap                  | Red Cap           |
+| ヒュプノクラウン | hyupunokuraun    | Hypno Crown              | Coronet           |
+| ネコみみフード   | nekomimifu-do    | Cat-Eared Hood           | Cat Hood          |
+| グランドヘルム   | gurandoherumu    | Grand Helm               | Grand Helm        |
+| えいゆうのこて   | eiyuunotate      | Hero's Shield            | Hero's Shield     |
+| レインボーローブ | reinbo-ro-bu     | Rainbow Robe             | Rainbow Robe      |
+| ホワイトドレス   | howaitodoresu    | White Dress              | White Dress       |
+| チョコボスーツ   | chokobosu-tsu    | Chocobo Suit             | Chocobo Suit      |
+| ゴロネコスーツ   | goronekosu-tsu   | Napping Cat Suit         | Tabby Suit        |
+| マクシミリアン   | makushimirian    | Maximilian               | Maximilian        |
+| カエサルアーマー | kaesarua-ma-     | Kaiser Armor             | Caesar's Plate    |
+| ドラグーンメイウ | doragu-nmeiru    | Dragoon Mail             | Dragoon Plate     |
+| アサシンベスト   | asashinbesuto    | Assassin Vest            | Assassin Vest     |
+| しゅらとうぎ     | shuradougi       | Combat Suit              | Battle Gear       |
+| ヴィシュヌベスト | vishunubesuto    | Vishnu Vest              | Vishnu Vest       |
+
+h2. Spell-like Items
+
+|_. Japanese       |_. Romaji          |_. Aerdan            |_. Official       |
+| ボムのかけら     | bomunokakera      | Bomb's Fragment     | Bomb Fragment    |
+| ボムのみぎうで   | bomunomigiude     | Bomb's Right Arm    | Bomb Arm         |
+| なんきょくのかぜ | nankyokunokaze    | Antarctic Wind      | Antarctic Wind   |
+| ほっきょくのかぜ | hokkyokunokaze    | Arctic Wind         | Arctic Wind      |
+| ゼウスのいかり   | zeusunoikari      | Zeus's Rage         | Rage of Zeus     |
+| かみがみのいかり | kamigaminoikari   | Gods' Rage          | Rage of the Gods |
+| ほしのすな       | hoshinosuna       | Stardust            | Stardust         |
+| リリスのくちづけ | ririsunokuchizuke | Lilith's Kiss       | Kiss of Lilith   |
+| バンパイアのきば | banpaianokiba     | Vampire's Fang      | Vampire Fang     |
+| バッカスのさけ   | bakkasunosake     | Bacchus' Wine       | Bacchus' Cider   |
+| エルメスのくつ   | erumesunokutsu    | Hermes' Shoes       | Hermes' Sandals  |
+| どうのすなどけい | dounosunadokei    | Copper Hourglass    | Hourglass        |
+| ぎんのすなどけい | ginnosunadokei    | Silver Hourglass    | Silver Hourglass |
+| きんのすなどけい | kinnosunadokei    | Gold Hourglass      | Gold Hourglass   |
+| くものいと       | kumonoito         | Spidersilk          | Spider's Silk    |
+| スケープドール   | suke-pudo-ru      | Scape Doll          | Decoy            |
+| あかいきば       | akaikiba          | Red Fang            | Red Fang         |
+| しろいきば       | shiroikiba        | White Fang          | White Fang       |
+| あおいきば       | aoikiba           | Blue Fang           | Blue Fang        |
+| ひかりのカーテン | hikarinoka-ten    | Shimmering Curtain  | Light Curtain    |
+| ボムのたましい   | bomunotamashii    | Bomb's Soul         | Bomb Core        |
+| つきのカーテン   | tsukinoka-ten     | Lunar Curtain       | Lunar Curtain    |
+| せいじゃくのかね | seijakunokane     | Bell of Silence     | Bell of Silence  |
+| だいちのドラム   | daichinodoramu    | Earth Drum          | Gaia Drum        |
+| クリスタル       | kurisutaru        | Crystal             | Crystal          |
+| クアールのひげ   | kua-runohige      | Coeurl's Whisker    | Coeurl's Whisker |
+| おうぎのしょ     | ouginosho         | Grimoire            | Grimoire         |
+| かいじゅうずかん | kaijuuzukan       | Bestiary            | Bestiary         |
+| めざましどけい   | mezamashidokei    | Alarm Clock         | Alarm Clock      |
+| ユニコーンのつの | yuniko-nnotsuno   | Unicorn's Horn      | Unicorn Horn     |
+| おうぎのしょLO   | ouginoshoLO       | Grimoire LO         | Grimoire LO      |
+| おうぎのしょLL   | ouginoshoLL       | Grimoire LL         | Grimoire LL      |
+| おうぎのしょLA   | ouginoshoLA       | Grimoire LA         | Grimoire LA      |
+| おうぎのしょLS   | ouginoshoLS       | Grimoire LS         | Grimoire LS      |
+| おうぎのしょLR   | ouginoshoLR       | Grimoire LR         | Grimoire LR      |
+| おうぎのしょLI   | ouginoshoLI       | Grimoire LI         | Grimoire LI      |
+| おうぎのしょLT   | ouginoshoLT       | Grimoire LT         | Grimoire LT      |
+| おうぎのしょLB   | ouginoshoLB       | Grimoire LB         | Grimoire LB      |
+
+h3. Items
+
+|_. Japanese       |_. Romaji       |_. Aerdan            |_. Official      |
+| ポーション       | po-shon        | Potion              | Potion          |
+| ハイポション     | haipo-shon     | High Potion         | Hi-Potion       |
+| エクスポーション | ekusupo-shon   | Ex Potion           | X-Potion        |
+| エーテル         | e-teru         | Ether               | Ether           |
+| エーテルドライ   | e-terudorai    | Ether Dry           | Dry Ether       |
+| エリクサー       | erikusa-       | Elixir              | Elixir          |
+| フェニックスのお | fenikkusunoo   | Phoenix Tail        | Phoenix Down    |
+| きんのはり       | kinnohari      | Gold Needle         | Gold Needle     |
+| おとめのキッス   | otomenokissu   | Maiden's Kiss       | Maiden's Kiss   |
+| うちでのこづき   | uchidenokozuki | Miracle Mallet      | Mallet          |
+| ダイエットフード | daiettofu-do   | Diet Food           | Diet Food       |
+| やまびこそう     | yamabikosou    | Echo Grass          | Echo Herbs      |
+| めぐすり         | megusuri       | Eye Drops           | Eye Drops       |
+| どくけし         | dokukeshi      | Antidote            | Antidote        |
+| じゅうじか       | juujika        | Cross               | Cross           |
+| ばんのうやく     | bannouyaku     | Panacea             | Remedy          |
+| アラーム         | ara-mu         | Alarm               | Siren           |
+| きんのリンゴ     | kinnoringo     | Gold Apple          | Gold Apple      |
+| ぎんのリンゴ     | ginnoringo     | Silver Apple        | Silver Apple    |
+| ソーマのしずく   | somanoshizuku  | Soma Drop           | Soma Drop       |
+| テント           | tento          | Tent                | Tent            |
+| コテージ         | kote-ji        | Cottage             | Cottage         |
+| エッチなほん     | ecchinahon     | Porn Book           | Magazine        |
+| ひじょうぐち     | hijouguchi     | Emergency Exit      | Emergency Exit  |
+| こびとのパン     | kobitonopan    | Dwarf's Bread       | Dwarven Bread   |
+| ゴブリン         | goburin        | Goblin              | Goblin          |
+| ボム             | bomu           | Bomb                | Bomb            |
+| コカトリス       | kokatorisu     | Cockatrice          | Cockatrice      |
+| マインドフレア   | maindofurea    | Mind Flayer         | Mind Flayer     |
+| ギサールのやさい | gisa-runoyasai | Gysahl Veggie       | Gysahl Greens   |
+| かいいんしょう   | kaiinshou      | Proof of Membership | Membership Pass |
+| ギサールのふえ   | gisa-runofue   | Gysahl Flute        | Gysahl Whistle  |
+| ラストエリクサー | rasutoerikusa- | Last Elixir         | Megalixir       |
+
+h3. Key Items
+
+|_. Japanese       |_. Romaji           |_. Aerdan            |_. Official      |
+| ボムの指輪       | bomunoyubiwa       | Bomb's Ring         | Bomb Ring       |
+| バロンのかぎ     | baronnokagi        | Baron's Key         | Baron Key       |
+| さばくのひかり   | sabakunohikari     | Desert's Light      | Sand Ruby       |
+| つちのクリスタル | tsuchinokurisutaru | Crystal of Earth    | Earth Crystal   |
+| マグマのいし     | magumanoushi       | Magma Jewel         | Magma Rock      |
+| ルカのくびかざり | rukanokubikazari   | Luca's Necklace     | Luca's Necklace |
+| ひそひそう       | hisohisou          | Whisperweed         | Twin Harp       |
+| やみのクリスタル | yaminokurisutaru   | Crystal of Darkness | Dark Crystal    |
+| ネズミのしっぽ   | nezuminoshippo     | Rat's Tail          | Rat Tail        |
+| アダマンタイト   | adamantaito        | Adamantite          | Adamantite      |
+| あいのフレイパン | ainofureipan       | Love's Frypan       | Frying Pan      |
+| ピンクのしっぽ   | pinkunoshippo      | Pink Tail           | Pink Tail       |
+| ルゲイエのかぎ   | rugeienokagi       | Lugae's Key         | Dr. Lugae's Key |
+| ダークマター     | da-kumata-         | Dark Matter         | Dark Matter     |
+| きれいなみず     | kireinamizu        | Pure Water          | Clear Water     |
+| よごれたみず     | yogoretamizu       | Dirty Water         | Muddy Water     |
+| はちみつ         | hachimitsu         | Honey               | Honey           |
+| まき             | maki               | Kindling            | Firewood        |
+| たいまつ         | taimatsu           | Torch               | Torch           |
+| おにんぎょう     | oningyou           | Doll                | Doll            |
+| オヤジにんぎょう | oyajiningyou       | Father's Doll       | Raggedy Doll    |
+| かぎ             | kagi               | Key                 | Key             |
+| ちめられたヤリ   | chimeraretayari    | Bloody Spear        | Bld-Skd Lance   |
+
+
+h3. Monsters
+
+|_. No. |_. Japanese       |_. Romaji         |_. Aerdan           |_. Advance        |
+|     1 | ゴブリン         | goburin          | Goblin             | Goblin           |
+|     2 | ダイブイーグル   | daibui-guru      | Dive Eagle         | Helldiver        |
+|     3 | フロータイボール | furo-taibo-ru    | Float Eyeball      | Floating Eyeball |
+|     4 | ソードラット     | so-doratto       | Sword Rat          | Sword Rat        |
+|     5 | インセクタス     | insekutasu       | Insectus           | Insectus         |
+|     6 | デザートサハギン | deza-tosahagin   | Desert Sahagin     | Desert Sahagin   |
+|     7 | フライングアイ   | furainguai       | Flying Eye         | Flying Eyes      |
+|     8 | ハンドレッグ     | handoreggu       | Hundleg            | Hundlegs         |
+|     9 | サンドウォーム   | sandowo-mu       | Sandworm           | Sand Worm        |
+|    10 | レッドマシュマロ | reddomashumaro   | Red Marshmallow    | Red Mousse       |
+|    11 | ギガントード     | giganto-do       | Gigantoad          | Gigantoad        |
+|    12 | ゾンビー         | zonbi-           | Zombie             | Zombie           |
+|    13 | ファングシェル   | fangusheru       | Fangshell          | Vile Shell       |
+|    14 | オーガニトード   | o-ganitoad       | Organitoad         | Toadgre          |
+|    15 | サハギン         | sahagin          | Sahagin            | Sahagin          |
+|    16 | フライキラー     | furaikira-       | Fly Killer         | Killer Fish      |
+|    17 | ミニマジシヤン   | minimajishiyan   | Mini Magician      | Tiny Mage        |
+|    18 | シーポッツ       | shi-pottsu       | Sea Pots           | Water Bug        |
+|    19 | アリゲイター     | arigeita-        | Alligator          | Alligator        |
+|    20 | バロンへい       | baronhei         | Baron Soldier      | Baron Soldier    |
+|    21 | ジェネラル       | jeneraru         | General            | General          |
+|    22 | ドモボーイ       | domobo-i         | Domovoi            | Domovoi          |
+|    23 | イエローゼリ     | iero-jeri        | Yellow Jelly       | Yellow Jelly     |
+|    24 | バジリスク       | bajirisuku       | Basilisk           | Basilisk         |
+|    25 | レーシイ         | re-shii          | Leshy              | Leshy            |
+|    26 | アダマンタイマイ | adamantaimai     | Adamantaimai       | Adamantoise      |
+|    27 | ボム             | bomu             | Bomb               | Bomb             |
+|    28 | スピリット       | supiritto        | Spirit             | Spirit           |
+|    29 | ベイニーボム     | beini-bomu       | Bane Bomb          | Gray Bomb        |
+|    30 | スケルトン       | sukeruton        | Skeleton           | Skeleton         |
+|    31 | コカトリス       | kokatorisu       | Cockatrice         | Cockatrice       |
+|    32 | ガーゴイル       | ga-goiru         | Gargoyle           | Gargoyle         |
+|    33 | ブラッディボーン | buraddibo-n      | Bloody Bone        | Bloodbones       |
+|    34 | ガトリンガ       | gatoringa        | Gatlinger          | Gatlinger        |
+|    35 | バロンかいへい   | baronkaihei      | Baron Marine       | Baron Warrior    |
+|    36 | キャプトン       | kyaputon         | Captain            | Captain          |
+|    37 | ズー             | zu-              | Zuu                | Zu               |
+|    38 | ソウル           | souru            | Soul               | Soul             |
+|    39 | グール           | gu-ru            | Ghoul              | Ghoul            |
+|    40 | レブナント       | rebunanto        | Revenant           | Revenant         |
+|    41 | リリス           | ririsu           | Lilith             | Lilith           |
+|    42 | スカルナント     | sukarunanto      | Skullenant         | Skullnant        |
+|    43 | スプラッシャー   | supurassha-      | Splasher           | Splasher         |
+|    44 | ヒュドラ         | hyudora          | Hydra              | Hydra            |
+|    45 | バロンこのえへい | baronkonoehei    | Royal Baron Guard  | Baron Guard      |
+|    46 | らいぎょ         | raigyo           | Northern Snakehead | Electrofish      |
+|    47 | ギガースゲイター | giga-sugeita-    | Gigas Gator        | Gigas Gator      |
+|    48 | デスタネト       | desutaneto       | Deathtanet         | Death Shell      |
+|    49 | フラッドウオーム | furaddowo-mu     | Flood Worm         | Flood Worm       |
+|    50 | ツインスネーク   | tsuinsune-ku     | Twin Snake         | Twin Snake       |
+|    51 | ウッドアイズ     | uddoaizu         | Wood Eyes          | Treant           |
+|    52 | ケットシー       | kettoshi-        | Cat Sidhe          | Cait Sith        |
+|    53 | ヘルニードル     | heruni-doru      | Hell Needle        | Hell Needle      |
+|    54 | デスビューティ   | desubyu-ti       | Death Beauty       | Death Flower     |
+|    55 | ドラキュレディ   | dorakyuredi      | Draculady          | Draculady        |
+|    56 | エーラパトラ     | e-rapatora       | Elapatra           | Cave Naga        |
+|    57 | マインドフレア   | maindofurea      | Mind Flayer        | Mind Flayer      |
+|    58 | フェイスバット   | feisubatto       | Face Bat           | Cave Bat         |
+|    59 | オーガ           | o-ga             | Ogre               | Ogre             |
+|    60 | パープルババロア | pa-purubabaroa   | Purple Bavarois    | Purple Bavarois  |
+|    61 | マリオン         | marion           | Marion             | Puppet           |
+|    62 | ソーサルレディ   | so-saruredi      | Sorcerlady         | Sorceress        |
+|    63 | ブラックナイト   | burakkunaito     | Black Knight       | Black Knight     |
+|    64 | ケンタウロナイト | kentauronaito    | Centaur Knight     | Centaur Knight   |
+|    65 | プラクティ       | purakuti         | Practi             | Gremlin          |
+|    66 | レディガーダー   | rediga-da-       | Lady Guard         | Soldieress       |
+|    67 | マリオネイター   | marioneita-      | Marionetteer       | Puppeteer        |
+|    68 | ブリズリザード   | burizuriza-do    | Freeze Lizard      | Ice Lizard       |
+|    69 | ブリーズビースト | burizubi-suto    | Freeze Beast       | Cold Beast       |
+|    70 | ヘルタートル     | heruta-toru      | Hell Turtle        | Hell Turtle      |
+|    71 | ルドランベビー   | rudoranbebi-     | Rudra Baby         | Roc Baby         |
+|    72 | ブラッドフラワ   | buraddofurawa    | Blood Flower       | Blood Flower     |
+|    73 | ルドラ           | rudora           | Rudra              | Roc              |
+|    74 | モルズ           | moruzu           | Mors               | Mors             |
+|    75 | スチルゴーレム   | suchirugo-remu   | Steel Golem        | Steel Golem      |
+|    76 | ゴブリンキャップ | goburinkyappu    | Goblin Captain     | Goblin Captain   |
+|    77 | アームドママル   | a-mudomamaru     | Armed Mammal[5]    | Armadillo        |
+|    78 | マグマントータス | magumanto-tasu   | Magma Tortoise     | Magma Tortoise   |
+|    79 | アンダグランダ   | andaguranda      | Undergrounder      | Undergrounder    |
+|    80 | ヘルフラッパー   | herufurappa-     | Hell Flapper       | Hell Flapper     |
+|    81 | クリセイルス     | kuriseirusu      | Chrysalis          | Chrysalis        |
+|    82 | グルームウイング | guru-muwingu     | Gloom Wing         | Gloomwing        |
+|    83 | ゴルゴーン       | gorugo-n         | Gorgon             | Gorgon           |
+|    84 | ミステレグ       | misuteregu       | Mysteregg          | Mystery Egg      |
+|    85 | アイアンドレス   | aiandoresu       | Iron Dress         | Ironback         |
+|    86 | ホワイトムース   | howaitomu-su     | White Mousse       | White Mousse     |
+|    87 | ナーガ           | na-ga            | Naga               | Naga             |
+|    88 | フラウドパペット | furaudopapetto   | Fraud Puppet       | Evil Doll        |
+|    89 | メデューサ       | medyu-sa         | Medusa             | Medusa           |
+|    90 | フレイムナイト   | fureimunaito     | Flame Knight       | Fiery Knight     |
+|    91 | クアール         | kua-ru           | Coeurl             | Coeurl           |
+|    92 | レメディボム     | remedibomu       | Remedy Bomb        | Balloon          |
+|    93 | キメイラ         | kimeira          | Chimera            | Chimera          |
+|    94 | くろとかげ       | kurotokage       | Black Lizard       | Black Lizard     |
+|    95 | ソーサラー       | so-sara-         | Sorcerer           | Sorcerer         |
+|    96 | れいきし         | reikishi         | Ghostly Knight     | Ghost Knight     |
+|    97 | マザーラミア     | maza-ramia       | Mother Lamia       | Lamia Matriarch  |
+|    98 | ラミア           | ramia            | Lamia              | Lamia            |
+|    99 | らいせい         | raisei           | Thunderer          | Grudger          |
+|   100 | フレイムドッグ   | fureimudoggu     | Flame Dog          | Fiery Hound      |
+|   101 | アイズ           | aizu             | Eyes               | Security Eye     |
+|   102 | バーサオーガ     | ba-sao-ga        | Balsa Ogre         | Mad Ogre         |
+|   103 | グリーンドラゴン | guri-ndoragon    | Green Dragon       | Green Dragon     |
+|   104 | ストーンゴーレム | suto-ngo-remu    | Stone Golem        | Stone Golem      |
+|   105 | ミスリルゴーレム | misurirugo-remu  | Mithril Golem      | Mythril Golem    |
+|   106 | ブラッディバット | buraddibatto     | Bloody Bat         | Bloody Bat       |
+|   107 | スカルジャー     | sukaruja-        | Skuldier           | Skuldier         |
+|   108 | トーディトード   | to-dito-do       | Toady Toad         | Tiny Toad        |
+|   109 | トーディウイッチ | to-diwicchi      | Toady Witch        | Bog Witch        |
+|   110 | ドリームエビル   | dori-muebiru     | Dream Evil         | Evil Dreamer     |
+|   111 | マモン           | mamon            | Mammon             | Mammon           |
+|   112 | モルボル         | moruboru         | Morbol             | Malboro          |
+|   113 | ベルフェゴール   | berufego-ru      | Belphegor          | Belphegor        |
+|   114 | ブラディレッド   | buraddireddo     | Bloody Red         | Bloody Eye       |
+|   115 | サタナイト       | satanaito        | Satan Knight       | Warrior          |
+|   116 | サタナジュニア   | satanajunia      | Satana Jr.         | Mini Satana      |
+|   117 | しょうかんし     | shoukanshi       | Summoner           | Summoner         |
+|   118 | アルケニー       | arukeni-         | Arachne            | Arachne          |
+|   119 | らいりゅう       | rairyuu          | Thunder Dragon     | Thunder Dragon   |
+|   120 | エビルヘッド     | ebiruheddo       | Evil Head          | Evil Bat         |
+|   121 | マリード         | mari-do          | Marid              | Screamer         |
+|   122 | ナーガラージャ   | na-gara-ja       | Naga Rajah         | King Naga        |
+|   123 | ミスバンパイア   | misubanpaia      | Miss Vampire       | Miss Vamp        |
+|   124 | イエロードラゴン | iero-doragon     | Yellow Dragon      | Yellow Dragon    |
+|   125 | キメイラブレイン | kimeiraburein    | Chimera Brain      | Chimera Brain    |
+|   126 | アサルトドアー   | asarutodoa-      | Assault Door       | Trap Door        |
+|   127 | ルナウイルス     | runawirusu       | Lunar Virus        | Lunar Virus      |
+|   128 | ユカリョーテ     | yukaryo-te       | Eukaryote          | Eukaryote        |
+|   129 | ミスリーダ       | misuri-da        | Myth Reader        | Crawler          |
+|   130 | プロカリョーテ   | purokaryo-te     | Prokaryote         | Prokaryote       |
+|   131 | アビスウオーム   | abisuwo-mu       | Abyss Worm         | Abyss Worm       |
+|   132 | ブラックプリン   | burakkupurin     | Black Pudding      | Black Flan       |
+|   133 | ダークグラネイド | da-kuguraneido   | Dark Grenade       | Dark Grenade     |
+|   134 | アラウネ         | araune           | Alraune            | Tarantula        |
+|   135 | きかいほう       | kikaihou         | Machine Gun        | Beamer           |
+|   136 | てっきへい       | tekkihei         | Iron Soldier       | Centaurion       |
+|   137 | きかいへい       | kikaihei         | Machine Soldier    | Mech Soldier     |
+|   138 | サーチャー       | sa-cha-          | Searcher           | Searcher         |
+|   139 | ラストアーム     | rasutoa-mu       | Last Arm           | Last Arm         |
+|   140 | きょじんへい     | kyojinhei        | Giant Soldier      | Giant Soldier    |
+|   141 | きかいりゅう     | kikairyuu        | Machine Dragon     | Mech Dragon      |
+|   142 | モルボルグレート | moruborugure-to  | Great Morbol       | Great Malboro    |
+|   143 | ゴールデントード | go-rudento-do    | Golden Toad        | Golden Toad      |
+|   144 | つきのめがみ     | tsukinomegami    | Moon Goddess       | Selene Guardian  |
+|   145 | あんこくまどうし | ankokumadoushi   | Dark Mage          | Dark Sage        |
+|   146 | ぎんりゅう       | ginryuu          | Silver Dragon      | Silver Dragon    |
+|   147 | きんりゅう       | kinryuu          | Gold Dragon        | Gold Dragon      |
+|   148 | スカルドラゴン   | sukarudoragon    | Skull Dragon       | Bone Dragon      |
+|   149 | サウルスゾンビー | saurusuzonbi     | Zombiesaur         | Dinozombie       |
+|   150 | リルマーダー     | riruma-da-       | Li'l Murder        | L'il Murderer    |
+|   151 | まじんへい       | majinhei         | Demon Soldier      | Giant Warrior    |
+|   152 | ブルードラゴン   | buru-doragon     | Blue Dragon        | Blue Dragon      |
+|   153 | レッドドラゴン   | reddodoragon     | Red Dragon         | Red Dragon       |
+|   154 | アーリマン       | a-riman          | Ahriman            | Ahriman          |
+|   155 | ベヘーモス       | behe-mosu        | Behemoth           | Behemoth         |
+|   156 | フェイス         | feisu            | Face               | Wicked Mask      |
+|   157 | ゼムスマインド   | zemusumaindo     | Zemus Mind         | Zemus's Mind     |
+|   158 | ゼムスブレス     | zemusuburesu     | Zemus Breath       | Zemus's Breath   |
+|   159 | プリンプリンセス | purinpurinsesu   | Pudding Princess   | Flan Princess    |
+|   160 | ゴブリンプリンス | goburinpurinsu   | Goblin Prince      | Goblin Prince    |
+|   161 | エキドナ         | ekidona          | Echidna            | Echidna          |
+|   162 | ラミアクイーン   | ramiakui-n       | Lamia Queen        | Lamia Queen      |
+|   163 | サハギンプリンス | sahaginpurinsu   | Sahagin Prince     | Sahagin Prince   |
+|   164 | ボムキング       | bomukingu        | Bomb King          | King Bomb        |
+|   165 | しんえいたい     | shineitai        | Elite Guard        | Palace Guard     |
+|   166 | クアールレギナ   | kua-ruregina     | Coeurl Queen       | Coeurl Regina    |
+|   167 | すいしょうりゅう | suishouryuu      | Crystal Dragon     | Crystal Dragon   |
+|   168 | まじんりゅう     | majinryuu        | Demonic Dragon     | Magic Dragon     |
+|   169 | カオスナイト     | kaosunaito       | Chaos Knight       | Chaotic Knight   |
+|   170 | ストラトエイビス | sutoratoeibis    | Strato Aevis       | Stratoavis       |
+|   171 | ゴールデンプリン | go-rudenpurin    | Golden Pudding     | Golden Flan      |
+|   172 | ダストムース     | dasutomu-su      | Dust Mousse        | Dust Mousse      |
+|   173 | モルボルワースト | moruboruwa-suto  | Worst Morbol       | Worst Malboro    |
+|   174 | キメイラガイスト | kimeiragaisuto   | Chimera Geist      | Chimerageist     |
+|   175 | カトブレパス     | katoburepasu     | Catoblepas         | Catoblepas       |
+|   176 | てつきょじん     | tetsukyojin      | Iron Giant         | Iron Giant       |
+|   177 | キングベヘーモス | kingubehe-mosu   | King Behemoth      | King Behemoth    |
+|   178 | ギルガメ         | girugame         | Gil Turtle         | Gilgamesh        |
+|   179 | プロトフェイズ   | purotofeizu      | Proto Phase        | Proto Phase      |
+|   180 | ミストイーグル   | misutoi-guru     | Mist Eagle         | Mist Eagle       |
+|   181 | ミストクラーケン | misutokura-ken   | Mist Kraken        | Mist Kraken      |
+|   182 | ミストサマナー   | misutosamana-    | Mist Summoner      | Mist Summoner    |
+|   183 | メタモルファ     | metamorufa       | Metamorpher        | Metamorpha       |
+|   184 | ぼうれい         | bourei           | Apparition         | Specter          |
+|   185 | プラチナトード   | purachinato-do   | Platinum Toad      | Platinum Toad    |
+|   186 | グラッジパペット | gurajjipapetto   | Grudge Puppet      | Grudge Puppet    |
+|   187 | デスパペット     | desupapetto      | Death Puppet       | Death Puppet     |
+|   188 | ブラキオレイドス | burakioreidos    | Brachioraidos      | Brachioraidos    |
+|   189 |                  |                  |                    | Soldier Monk     |
+|   190 |                  |                  |                    | Super Monk       |
+|   191 |                  |                  |                    | Drillmaster      |
+|   192 |                  |                  |                    | Bandit           |
+|   193 | オクトマンモス   | okutomanmosu     | Octomammoth        | Octomammoth      |
+|   194 | アントリオン     | antorion         | Antlion            | Antlion          |
+|   195 | マザーボム       | maza-bomu        | Mother Bomb        | Mom Bomb         |
+|   196 | ベイガン         | beigan           | Baigan             | Baigan           |
+|   197 | みぎうで         | migiude          | Right Arm          | Right Arm        |
+|   198 | ひだりうで       | hidariude        | Left Arm           | Left Arm         |
+|   199 | ダークエルフ     | da-kuerufu       | Dark Elf           | Dark Elf         |
+|   200 | ダークドラゴン   | da-kudoragon     | Dark Dragon        | Dark Dragon      |
+|   201 | ドグ             | dogu             | Dog                | Sandy            |
+|   202 | マグ             | magu             | Mag                | Cindy            |
+|   203 | ラグ             | ragu             | Rag                | Mindy            |
+|   204 | カルコ           | karuko           | Calco              | Calco            |
+|   205 | ブリーナ         | buri-na          | Brina              | Brena            |
+|   206 | カルコブリーナ   | karukoburi-na    | Calcobrina         | Calcobrena       |
+|   207 | ゴルーベザ       | goru-beze        | Golbeze            | Golbez           |
+|   208 | こくりゅう       | kokuryuu         | Cruel Dragon       | Shadow Dragon    |
+|   209 | はかせ           | hakase           | Doctor             | Doctor           |
+|   210 | バルナバ         | barunaba         | Barnabas           | Barnabas         |
+|   211 | ルゲイエ         | rugeie           | Lugae              | Dr. Lugae        |
+|   212 | がったいメカ     | gattaimeka       | Borg               | Barnabas-Z       |
+|   213 | スカリミリョーネ | sukarimiryo-ne   | Scarmiglione       | Scarmiglione     |
+|   214 | スカリミリョーネ | sukarimiryo-ne   | Scarmiglione       | Scarmiglione     |
+|   215 | カイナッシオ     | kainasshio       | Cagnazzo           | Cagnazzo         |
+|   216 | バルバリシア     | barubarishia     | Barbariccia        | Barbariccia      |
+|   217 | ルビカンテ       | rubikante        | Rubicante          | Rubicante        |
+|   218 | デモンズウオール | demonzuwo-ru     | Demon's Wall       | Demon Wall       |
+|   219 | ぼうえんシステム | bouenshisutemu   | Defense System     | Defense Node     |
+|   220 | げいげきシステム | geigekishisutemu | Intercept System   | Attack Node      |
+|   221 | せいぎょシステム | seigyoshisutemu  | Control System     | CPU              |
+|   222 | ストームドラゴン | suto-mudoragon   | Storm Dragon       | Storm Dragon     |
+|   223 | ギガースウオーム | giga-suwo-mu     | Gigas Worm         | Gigas Worm       |
+|   224 | プリンマスター   | purinmasuta-     | Pudding Master     | Master Flan      |
+|   225 | ティラノサウルス | tiranosaurus     | Tyrannosaurus      | T-Rex            |
+|   226 | デスマシーン     | desumashi-n      | Death Machine      | Death Mech       |
+|   227 | ルナザウルス     | runasaurusu      | Lunasaurus         | Lunasaur         |
+|   228 | プレイグ         | pureigu          | Plague             | Plague           |
+|   229 | はくりゅう       | hakuryuu         | Earl Dragon        | White Dragon     |
+|   230 | タイガリアサン   | taigariasan      | Tiger Leviathan    | Ogopogo          |
+|   231 | ダークバハムート | da-kubahamu-to   | Dark Bahamut       | Dark Bahamut     |
+|   232 | ゼムス           | zemusu           | Zemus              | Zemus            |
+|   233 | ゼロムス         | zeromusu         | Zeromus            | Zeromus          |
+|   234 | ゼロムス         | zeromusu         | Zeromus            | Zeromus          |
+|   235 | ミストドラゴン   | misutodoragon    | Mist Dragon        | Mist Dragon      |
+|   236 | イフリート       | ifuri-to         | Ifrit              | Ifrit            |
+|   237 | シヴァ           | shiva            | Shiva              | Shiva            |
+|   238 | タイタン         | taitan           | Titan              | Titan            |
+|   239 | ラムウ           | ramuu            | Ramuh              | Ramuh            |
+|   240 | オーディン       | o-din            | Odin               | Odin             |
+|   241 | レヴァイアタン   | revaiatan        | Leviathan          | Leviathan        |
+|   242 | バハムート       | bahamu-to        | Bahamut            | Bahamut          |
+|   243 | アスラ           | asura            | Asura              | Asura            |
+|   244 | ルナバハムート   | runabahamu-to    | Lunar Bahamut      | Lunar Bahamut    |
+|   245 | ルナレヴァイア   | runarevaia       | Lunar Leviathan    | Lunar Leviathan  |
+|   246 | ルナオーディン   | runao-din        | Lunar Odin         | Lunar Odin       |
+|   247 | ルナアスラ       | runaasura        | Lunar Asura        | Lunar Asura      |
+|   248 | ルナタイタン     | runataitan       | Lunar Titan        | Lunar Titan      |
+|   249 | ルナドラゴン     | runadoragon      | Lunar Dragon       | Lunar Dragon     |
+|   250 | ルナイフリート   | runaifuri-to     | Lunar Ifrit        | Lunar Ifrit      |
+|   251 | ルナラムウ       | runaramuu        | Lunar Ramuh        | Lunar Ramuh      |
+|   252 | ルナシヴァ       | runashiva        | Lunar Shiva        | Lunar Shiva      |
+|   253 | ゼロマス：EG     | zeromusu:EG      | Zeromus EG         | Zeromus EG       |
+
+fn5. Yes, I know it's a terrible name for a monster. Moreover, it's also terribly Engrishy. Unfortunately, the only context for it is the image, so you'll just have to deal.
