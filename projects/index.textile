@@ -1,0 +1,10 @@
+---
+layout: base
+title: Projects
+---
+
+Here's a list of everything I'm working on at the moment:
+
+* "Chessa":http://github.com/aerdan/Chessa
+* "Final Fantasy RPG: Track System":http://rgi.wikidot.org/ord:track-system
+* "Surveyor":surveyor.html, a first-person Metroidvania game.

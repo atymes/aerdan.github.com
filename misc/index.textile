@@ -8,4 +8,3 @@ Things of variable relevance to other people:
 * "Chessa's documentation":chessa.html
 * "CSS tricks":css.html
 * "OS Pizza":ospizza.html
-* "A Metroidvania FPS":surveyor.html
