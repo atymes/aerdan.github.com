@@ -499,7 +499,7 @@ h2. Armor
 | くろのローブ     | kuronoro-bu      | Black Robe          | Black Suit      | Black Robe      |
 | しろのローブ     | shironoro-bu     | White Robe          | White Suit      | White Robe      |
 | ローブオブロード | ro-buoburo-do    | Robe of Lords       | (N/A)           | Robe of Lords   |
-| ブロンズアーマー | buronzua-ma-     | Bronze Armor        | Bronze Armor    | Bronze Armor    | 
+| ブロンズアーマー | buronzua-ma-     | Bronze Armor        | Bronze Armor    | Bronze Armor    |
 | アイアンアーマー | aiana-ma-        | Iron Armor          | Iron Armor      | Iron Armor      |
 | ミスリルアーマー | misurirua-ma-    | Mithril Armor       | Mythril Armor   | Mythril Armor   |
 | ゴールドアーマー | go-rudoa-ma-     | Gold Armor          | Gold Armor      | Golden Armor    |
