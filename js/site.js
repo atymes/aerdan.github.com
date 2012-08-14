@@ -20,7 +20,7 @@ $(document).ready(function() {
     }
     var style = $.cookie('stylesheet');
     if (style != 'ff4') {
-        $("head").append('<li-nk href="/css/' + style + '.css" rel="stylesheet">');
+        $("head").append('<link href="/css/' + style + '.css" rel="stylesheet">');
     }
 });
 
