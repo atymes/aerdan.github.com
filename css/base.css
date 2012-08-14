@@ -24,6 +24,8 @@ nav {
     width: 20%;
     margin-left: 1em;
     vertical-align: top;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 nav ul {
     list-style-type: none;
