@@ -5,7 +5,7 @@ html {
 body {
     margin-top: 1em;
 }
-article, nav {
+aside, nav {
     display: inline-block;
 }
 article, nav, footer {
@@ -21,18 +21,15 @@ nav {
     margin-right: 1em;
     vertical-align: top;
 }
-article {
+aside {
     width: 70%;
     margin-left: 1em;
     padding-left: 1em;
     padding-right: 1em;
     padding-bottom: 1ex;
-    margin-bottom: 1ex;
 }
 footer {
-    margin: 0px auto;
     display: block;
-    width: 90%;
 }
 a:link, a:visited {
     color: #5FF;
