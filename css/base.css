@@ -1,10 +1,12 @@
 html {
-    color: #bbb;
+    color: #FFF;
     background-color: black;
     margin: 0px auto;
 }
 article, nav {
     display: inline-block;
+}
+article, nav, footer {
     background-color: #315A8C;
     border-width: 4px;
     border-image: url(/img/ff4.png) 4 4;
