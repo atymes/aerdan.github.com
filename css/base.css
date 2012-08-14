@@ -48,16 +48,16 @@ a:hover, a:active {
     color: #FF5;
 }
 h1 {
-    font-size: 180%;
+    font-size: x-large;
     margin-bottom: 1ex;
 }
 h2 {
-    font-size: 160%;
+    font-size: large;
     margin-bottom: 1ex;
 }
 h3 {
-    font-size: 140%;
+    font-size: 150%;
 }
 h4, h5, h6 {
-    font-size: 120%;
+    font-size: 125%;
 }
