@@ -81,7 +81,9 @@ h4, h5, h6 {
 
 td, th {
     border: 1px inset white;
+    border-spacing: 2px;
 }
 table {
     border: 1px outset white;
+    border-spacing: 2px;
 }
