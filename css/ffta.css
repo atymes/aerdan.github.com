@@ -4,10 +4,10 @@ html {
     text-shadow: #d0c890 3px 3px 0;
 }
 a:link, a:visited {
-    color: #0BB;
+    color: #080;
 }
 a:hover, a:active {
-    color: #BB0;
+    color: #800;
 }
 article, footer, nav, section {
     background-color: #e0e0c0;
