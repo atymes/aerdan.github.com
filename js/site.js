@@ -1,6 +1,6 @@
 $(document).ready(function() {
     if ($.cookie('text-shadow') == 'no') {
-        $('body').css('text-shadow', 'none');
+        $('html').css('text-shadow', 'none');
         $('#no-shadow').attr('checked', 'checked');
     }
     $('#no-shadow').click(function(){
