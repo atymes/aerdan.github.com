@@ -1,0 +1,6 @@
+---
+layout: base
+title: Home
+---
+
+Welcome to Kumiho, a "Github Pages":http://pages.github.com/ hosted variant on the old Inari theme. Most of the content here is available via the sidebar.
