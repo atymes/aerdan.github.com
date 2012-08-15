@@ -1,6 +1,7 @@
 html {
     color: black;
     background-color: white;
+    text-shadow: none;
 }
 a:link, a:visited {
     color: #0BB;
@@ -9,7 +10,7 @@ a:hover, a:active {
     color: #BB0;
 }
 article, footer, nav, section {
-    background-color: white;
+    background-color: #e0e0c0;
     border-width: 27px;
     border-image: url(/img/ffta.png) 27 27;
     border-image-repeat: repeat;
