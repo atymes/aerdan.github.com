@@ -11,10 +11,11 @@ p. Experimental options:
 
 <p><label>Theme: <select id="style">
     <option value="ff4">Final Fantasy IV DS</option>
+    <option value="ff5">Final Fantasy V</option>
+    <option value="ffta">Final Fantasy Tactics Advance</option>
     <option value="ct1">Chrono Trigger Base</option>
     <option value="ct2">Chrono Trigger Blue</option>
     <option value="ct3">Chrono Trigger Green</option>
     <option value="lufia2">Lufia II Casino</option>
-    <option value="ffta">Final Fantasy Tactics Advance</option>
 </select></p>
 

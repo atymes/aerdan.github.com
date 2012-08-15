@@ -1,0 +1,16 @@
+a:link, a:visited {
+    color: #5ff;
+}
+a:hover, a:active {
+    color: #ff5;
+}
+article, footer, nav, section {
+    background-color: #101042;
+    border-width: 8px;
+    border-image: url(/img/ff5.png) 8 8;
+    border-image-repeat: repeat;
+    -moz-border-image: url(/img/ff5.png) 8 8;
+    -moz-border-image-repeat: repeat;
+    -o-border-image: url(/img/ff5.png) 8 8;
+    -o-border-image-repeat: repeat;
+}
