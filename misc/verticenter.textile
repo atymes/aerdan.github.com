@@ -1,4 +1,7 @@
+---
+layout: base
 title: Vertical Centering
+---
 
 p. This is a much better way to do vertical centering (e.g. for a neat-looking login prompt or a loading animation) than using display:table & display:table-cell (which doesn't work in _really_ modern browsers like Chrome anyway):
 
