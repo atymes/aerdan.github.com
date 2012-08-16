@@ -30,6 +30,9 @@ nav {
 nav ul {
     list-style-type: none;
 }
+nav li {
+    line-height: 125%;
+}
 aside {
     width: 70%;
     margin-left: 1em;
