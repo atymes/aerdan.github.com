@@ -3,8 +3,6 @@ layout: base
 title: Surveyor
 ---
 
-(The content on this page is *not* licensed under the Creative Commons license; unless you have received written permission, you have no rights to any of the content on this page.)
-
 Surveyor is a first-person exploration game, with influences from the epic fantasy genre, and is inspired by the Metroid and Castlevania franchises by Nintendo and Konami, respectively. Players will explore a randomly-generated world, acquiring items and learning spells as they encounter new regions.
 
 The primary goal of each world may differ; on some worlds, it will be to catalogue flora and fauna as extensively as possible. On other worlds, the player may be required to locate an ancient artifact for research purposes.
@@ -41,11 +39,38 @@ Any item which can be worn is considered 'armor', and a range of slots are avail
 * Enhanced detection of secrets
 * ...
 
+Only one armor system will come stock: the single-slot system mooted above. The single-slot system will have three separate outfits: light, medium, and heavy. Each outfit will have its own chain of upgrades, but upgrade items will apply upgrades for all three outfits, whether the player has acquired them or not.
+
+* The 'medium' outfit will represent a midpoint between the light and heavy outfits, while having a few unique features of its own.
+* The 'light' outfit will focus on speed and stealth over raw power, including higher jumps and the potential for limited flight.
+* The 'heavy' outfit will focus on strength and defense, including reduced knockback. It won't be able to jump as high or move as fast as the medium outfit, but it will also give a boost to the player's energy meter.
+
 h3. Weapons
 
 Various weapons may be available, from simple daggers to enchanted bows which shoot bolts of energy. As with armor, multiple systems are possible based on player preference. One might prefer having weapon categories, where new weapons are strictly upgrades over older weapons in the same category, or a range of weapons where each weapon has benefits and drawbacks compared to another weapon even in the same category.
 
+Only one weapon system will come stock: the weapon-category system mooted above. There will be five weapon categories: swords, axes, bows, bombs, and claws. Each category will have a unique ability specific to that category.
+
+* Swords are melee weapons; they are able to press recessed switches.
+* Axes are melee weapons; they are able to remove dense foliage.
+* Bows are ranged weapons; they are able to press switches across pits.
+* Bombs are melee/ranged weapons; they are able to demolish boulders.
+* Claws are melee weapons; they bestow the ability to climb certain structures. (Dirt cliffs, trees, wooden buildings, etc.)
+
+Not all weapon categories may be available; if they are not, wands or spells with the same capabilities will be.
+
+h3. Spells
+
+A variety of spells will be available. Unlike wands, they are limited-use; when the energy meter has insufficient energy for a given spell, it cannot be cast. Spells can be obtained which can duplicate wand and weapon effects, but they can also do the following:
+
+* Transform self: This category of spell permits the player to assume new shapes, from mice to bears. Such shapes last until the player chooses to transform to a different shape. Players will need to acquire specific shapes in order to assume them.
+* Transform other: This category of spell permits the player to cause enemies and obstacles to assume new shapes, though enemies will only be shifted for a limited time. This category shares shapes with the self-transformation category, but also has shapes unique to it, such as boulders or trees.
+* Elemental: This category of spell has elemental effects, similar to the elemental wands. Unlike the wands, the effects are generally more powerful according to their nature.
+* Healing: A portion of the energy meter is converted into health.
+
 h2. Expansion
 
 DLC(DownLoadable Content) should be either free, for minor additions (new outfits, for instance), or cheap (new region templates, new themes, 'locked' world scenarios). It should also be possible for players to generate and sideload their own content without restriction; an official marketplace will be provided for official expansions and user-generated content, but it will be monitored to ensure no paid content infringes IP.
+
+In the event that DLC is possible and feasible, additional armor and weapon systems will be implemented. The first of each will be completely free and made entirely open-source for the benefit of users seeking to understand the APIs involved.
 
