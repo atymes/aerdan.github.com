@@ -1,7 +1,4 @@
----
-layout: base
 title: Final Fantasy IV Translations Guide
----
 
 p. At last count, there have been six releases of Final Fantasy IV, with varying levels of accuracy (from 'questionable' for the original Super NES translation to 'pretty decent' for the Game Boy Advance and PlayStation Portable releases). I'm not going to cover all of the releases, however; that would be a waste of time, owing to how similar most of them are. Instead, I will focus on Final Fantasy IV Advance and Final Fantasy IV DS.
 
@@ -623,44 +620,63 @@ h3. Names
 | エッジ     | ejji      | Edge     | Edge       |
 | フースーヤ | fu-su-ya  | Fusuya   | FuSoYa     |
 
-fn4. This is a reference to the Biblical story of Cain & Abel, made even more blatant in Final Fantasy IV Advance than in ithe original game by the existence of Abel's Lance. The _only_ reason I can see for the official translation to retain the SNES-era spelling is a misplaced sense of nostalgia.
+fn4. This is a reference to the Biblical story of Cain & Abel, made even more blatant in Final Fantasy IV Advance than in the original game by the existence of Abel's Lance. The _only_ reason I can see for the official translation to retain the SNES-era spelling is a misplaced sense of nostalgia.
 
 fn5. 'Lydia' is a genuine name. Given that the original translation team for Final Fantasy IV consisted solely of Japanese with not a single native English speaker involved, retention of 'Rydia' is also suspect.
 
 h3. Jobs
 
-|_. Japanese   |_. Romaji      |_. Aerdan      |_. Official |
-| あんこくきし | ankokukishi   | Dark Knight   | D. Knight  |
-| りゅうきし   | ryuukishi     | Dragon Knight | Dragoon    |
-| しょうかんし | shoukanshi    | Summoner      | Summoner   |
-| けんじゃ     | kenja         | Sage          |            |
-| おうぞく     | ouzoku        | Prince[6]     |            |
-| しろまどうし | shiromadoushi | White Mage    | White Mage |
+|_. Japanese               |_. Romaji      |_. Aerdan      |_. Official |
+| あんこくきし<br>暗黒騎士 | ankokukishi   | Dark Knight   | D. Knight  |
+| パラディン               | paradin       | Paladin       | Paladin    |
+| りゅうきし<br>竜騎士     | ryuukishi     | Dragon Knight | Dragoon    |
+| しょうかんし<br>召喚士   | shoukanshi    | Summoner      | Summoner   |
+| けんじゃ<br>賢者         | kenja         | Sage          | Sage       |
+| おうぞく<br>吟遊詩人     | ouzoku        | Prince[6]     | Bard       |
+| しろまどうし<br>白魔道士 | shiromadoushi | White Mage    | White Mage |
+| モンク                   | monku         | Monk          | Monk       |
+| くろまどうし<br>黒魔道士 | kuromadoushi  | Black Mage    | Black Mage |
+| ぎし<br>技師             | gishi         | Engineer      | Engineer   |
+| にんじゃ<br>忍者         | ninja         | Ninja         | Ninja      |
+| つきのたみ<br>月の民     | tsukinotami   | Lunar[7]      | Lunarian   |
 
 fn6. Literally 'royalty'.
 
+fn7. 'Lunarian' gives, to me, the sense that the place from which the individual (Fusuya, in this case) hails is 'Lunaria'. We don't call Americans 'Americanians', after all. I suppose I could use 'Lunan', too, but that looks *and* sounds ridiculous.
+
 h3. Commands
 
-|_. Japanese |_. Romaji   |_. Aerdan    |_. Official  |
-| たたかう   | tatakau    | Attack      | Attack      |
-| ジャンプ   | janpu      | Jump        | Jump        |
-| あんこく   | ankoku     | Darkness    | Darkness    |
-| アイテム   | aitemu     | Item        | Item        |
-| ぼうぎょ   | bougyo     | Defense     | Defense     |
-| チェンジ   | chenji     | Change      | Change      |
-| しろまどう | shiromadou | White Magic | White       |
-| くろまどう | kuromadou  | Black Magic | Black       |
-| しょうかん | shoukan    | Summon      | Summon      |
-| おもいです | omoidesu   | Recall      | Recall      |
-| うたう     | utau       | Sing        | Sing        |
-| くすり     | kusuri     | Medicine    | Salve       |
-| かくれる   | kakureru   | Hide        | Hide        |
-| あらわれる | arawareru  | Appear      |             |
-| いのり     | inori      | Prayer      | Pray        |
-| ねらう     | nerau      | Aim         | Aim         |
-| ためる     | tameru     | Store       | Power       |
-| けり       | keri       | Kick        | Kick        |
-| がまん     | gaman      | Endure      | Gird        |
+|_. Japanese |_. Romaji   |_. Aerdan     |_. Official  |
+| たたかう   | tatakau    | Attack       | Attack      |
+| アイテム   | aitemu     | Item         | Item        |
+| ぼうぎょ   | bougyo     | Defense      | Defense     |
+| チェンジ   | chenji     | Change       | Change      |
+| あんこく   | ankoku     | Darkness     | Darkness    |
+| ジャンプ   | janpu      | Jump         | Jump        |
+| Wジャンプ  | Wjanpu     | Double Jump  | Double Jump |
+| しろまどう | shiromadou | White Magic  | White       |
+| くろまどう | kuromadou  | Black Magic  | Black       |
+| しょうかん | shoukan    | Summon       | Summon      |
+| おもいです | omoidesu   | Recall       | Recall      |
+| うたう     | utau       | Sing         | Sing        |
+| ねっしょう | rasshou    | Serenade     | Chant       |
+| くすり     | kusuri     | Medicine     | Salve       |
+| かくれる   | kakureru   | Hide         | Hide        |
+| あらわれる | arawareru  | Appear       | Reappear    |
+| いのり     | inori      | Prayer       | Pray        |
+| ねらう     | nerau      | Aim          | Aim         |
+| ためる     | tameru     | Store        | Power       |
+| けり       | keri       | Kick         | Kick        |
+| がまん     | gaman      | Endure       | Gird        |
+| ひっさつ   | hissatsu   | Special Move | Deadly      |
+| つよがる   | tsuyogare  | Bluff        | Bluff       |
+| うそなき   | usonaki    | False Tears  | Cry         |
+| ふたりがけ | futarigake | Twin Magic   | Twin        |
+| しらべる   | shirabere  | Examine      | Study       |
+| なげる     | nagere     | Throw        | Throw       |
+| ぬすむ     | nusumu     | Steal        | Steal       |
+| ぶんどる   | bundore    | Seize        | Plunder     |
+| せいしんは | seishinha  | Psychic Wave | Regen       |
 
 h3. Magic
 
