@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Final Fantasy IV Translations Guide
+title: Final Fantasy IV Changes Guide
 ---
 
 p. At last count, there have been six releases of Final Fantasy IV, with varying levels of accuracy (from 'questionable' for the original Super NES translation to 'pretty decent' for the Game Boy Advance and PlayStation Portable releases). I'm not going to cover all of the releases, however; that would be a waste of time, owing to how similar most of them are. Instead, I will focus on Final Fantasy IV Advance and Final Fantasy IV DS.
