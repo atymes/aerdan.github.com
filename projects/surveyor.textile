@@ -74,3 +74,16 @@ DLC(DownLoadable Content) should be either free, for minor additions (new outfit
 
 In the event that DLC is possible and feasible, additional armor and weapon systems will be implemented. The first of each will be completely free and made entirely open-source for the benefit of users seeking to understand the APIs involved.
 
+h2. Notes
+
+Surveyor itself will not use any form of DRM. However, certain features (e.g. custom player skins, multiplayer, etc.) will require an account and Internet access.
+
+* Multiplayer will only permit additional content available to all participants, and free DLC will be transferred to users who lack it on connecting to a server. Multiplayer will not itself require an account, but server features (e.g. ACLs) will not work without an account.
+* Custom player skins are not required to follow any guidelines, but adult-oriented skins must be marked as such (and a family-friendly version provided) or else the skin will be deleted and access to this feature will be locked out permanently.
+* Achievements will exist, but for actually-challenging accomplishments, such as time-limited 100% runs and the like. They will be *earned*, not *given*
+
+Other things Surveyor will have:
+
+* A cel-shaded, cartoonish look by default, reminiscent of _The Legend of Zelda: The Wind Waker_.
+* A PC release initially, with console ports to follow if successful.
+
