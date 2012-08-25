@@ -3,9 +3,9 @@ layout: base
 title: Translations
 ---
 
-p. I'm not a professional translator, nor do I particularly aspire to be given my disabilities, but despite those same issues, here is a list of the non-dialogue translations I've done. If you would like me to do similar work, please contact me; I can be reached <a href="mailto:kiyoshi.aman@gmail.com">via e-mail</a>.
+I've translated non-dialogue text for a number of games, and alongside my translations are 'official' translations for comparison purposes. My process typically involves transcription and translation before I include the official translations; this is so that I'm not distracted by others' translations as I do my own. I've played most or all of these games, so in some cases I will use the official translation's terms when I can't think of a better one on my own.
 
-p. All of my translations are my original work and are released under the Creative Commons Attribution/Share Alike/Non-Commercial 3.0 license; other translations alongside, if any, are copyright by their respective creators.
+If you have non-dialogue text for me to translate, "please contact me":mailto:kiyoshi.aman@gmail.com. Be warned: I don't do image translations of kanji at this time unless rubi text (also known as furigana) is supplied.
 
 * "Chrono Trigger":chronotrigger.html
 * "Final Fantasy I":ff1.html
