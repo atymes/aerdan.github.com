@@ -8,6 +8,7 @@ p. I'm not a professional translator, nor do I particularly aspire to be given m
 p. All of my translations are my original work and are released under the Creative Commons Attribution/Share Alike/Non-Commercial 3.0 license; other translations alongside, if any, are copyright by their respective creators.
 
 * "Chrono Trigger":chronotrigger.html
+* "Final Fantasy I":ff1.html
 * "Final Fantasy IV":ff4.html
 * "Final Fantasy V":ff5.html
 * "Final Fantasy: Mystic Quest":mysticquest.html
