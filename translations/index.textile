@@ -9,6 +9,7 @@ If you have non-dialogue text for me to translate, "please contact me":mailto:ki
 
 * "Chrono Trigger":chronotrigger.html
 * "Final Fantasy I":ff1.html
+* "Final Fantasy II":ff2.html
 * "Final Fantasy IV":ff4.html
 * "Final Fantasy V":ff5.html
 * "Final Fantasy: Mystic Quest":mysticquest.html
