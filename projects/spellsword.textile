@@ -1,0 +1,10 @@
+---
+layout: base
+title: Spellsword
+---
+
+Spellsword is a traditional, top-down roleplaying game with similar themes and values to "Surveyor":/projects/surveyor.html. Like Surveyor, Spellsword is ultimately about exploration to achieve a goal; unlike Surveyor, the core mechanics and overall feel is different.
+
+Spellsword's core gameplay mechanic is an equipment-based slot system, into which abilites are socketed. While inspired by the game _Final Fantasy VII_, by Squaresoft (now Square-Enix), Spellsword trades in the ability-growth system for environmental effects. Where both Surveyor and _Final Fantasy VII_ are real-time, Spellsword is intended to act in 'ticks', where the players' characters and all opponents take turns to act.
+
+Spellsword will be designed with multiplayer play as a central part of the experience. However, unlike other multiplayer-centric games, Spellsword will not require a connection to play solo, nor will it require centralised servers for gameplay. Spellsword accounts will be solely for social interactions and convenience, such as joining a friend in-game without knowing his or her IP address.
