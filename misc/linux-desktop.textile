@@ -1,0 +1,14 @@
+---
+layout: base
+title: The Problems with Desktop Linux
+---
+
+There are a number of problems with the concept of GNU/Linux as a desktop operating system. Some are minor (such as quality assurance), but there are at least three major problems: GNU/Linux is a moving target, there are many 'desktop environments' (some of which are even cobbled together with superglue), and most importantly the distributions are numerous and a maze of twisty package management schemes almost all alike. Each of these, in isolation, could be surmounted, but their composition is significantly more difficult.
+
+GNU/Linux is constantly evolving; every day, the kernel receives commits and patches. Every day, other software for the platform gains a new release. Here's the rub, though: with constant evolution it becomes harder to write closed-source software (e.g. Steam) without releasing a new version every time a major library gets an ABI-breaking update. The only 'solution', and it's not much of one, is having such software be statically linked; unfortunately, this means the closed-source software can't rely on constant evolution to fix bugs and security holes in the libraries said software depends on.
+
+There are many desktop environments (software suites which include a browser, a text editor, an IM client, and more), and no two of them are identical. Consequently, users are required to pick one on next to zero useful information or experience, or else turn this decision over to someone who presumably knows what their needs are likely to be. The support over which comes with this proliferation consumes significantly more man-hours, in aggregate, than both Windows and MacOS X. Not only do users need to be (re)trained whenever they're given a desktop environment, they can't even rely on their skills to transfer should they change jobs.
+
+There are over three hundred (300) distributions to choose from, and no two of them are exactly alike. Some are optimized for specific roles (multimedia, gaming, business, etc.), some are language-specific, and some are even desktop environment-specific. One can imagine that the sheer variety makes it very hard to choose the right one for the job it'll be asked to do. Often, the choice is guided by the geek chosen for the task of migrating the user to Linux (usually a friend or relative), which tends to result in that geek's favourite distribution being used even if it's not the best choice for the user. Somewhat more rarely, businesses decide, or are required by law or mandate, to migrate to Linux; typically, the decisions involved are made by the IT staff, who may or may not be able to assess their options properly.
+
+As stated before, GNU/Linux has many challenges facing it as a contender for desktop use, ranging from perpetual motion to the two-fold illusions of choice. Individually, these problems could, perhaps, be surmounted; collectively, they impede adoption of the open-source operating system.
