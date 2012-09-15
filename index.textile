@@ -3,4 +3,17 @@ layout: page
 title: Home
 ---
 
-Welcome to Kumiho, a "Github Pages":http://pages.github.com/ hosted variant on the old Inari theme. Most of the content here is available via the sidebar.
+{% for post in site.posts %}
+
+h3. "{{post.title}}":/blog{{post.url}}
+
+Posted {{post.date | date_to_string}}.
+
+{{post.content | strip_html | truncate_words: 55}}
+
+"Read more...":/blog{{post.url}}
+
+<hr>
+
+{% endfor %}
+
