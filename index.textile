@@ -5,13 +5,13 @@ title: Home
 
 {% for post in site.posts %}
 
-h3. "{{post.title}}":/blog{{post.url}}
+h3. "{{post.title}}":{{post.url}}
 
 Posted {{post.date | date_to_string}}.
 
 {{post.content | strip_html | truncate_words: 55}}
 
-"Read more...":/blog{{post.url}}
+"Read more...":{{post.url}}
 
 <hr>
 
