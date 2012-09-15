@@ -1,6 +1,16 @@
 ---
 layout: post
-title: Testing
+title: Recent Events
 ---
 
-This is a test of Jekyll-based blogging. Please let it not be a disaster.
+So, recently I met with my support team from Oklahoma's DRS(Department of Rehabilitative Services) and sketched out an idea of what I want and what I need. More or less, and in no particular order, we agreed on:
+
+* Hearing aids will be prepared for in 3-ish weeks and acquired the week thereafter.
+* An O&M(Orientation & Mobility) instructor will be meeting with me soon for evaluating my skills and assessing whether a guide dog would be appropriate for me.
+* I will be attending a local deaf-blind conference in Midwest City (it'll be running October 12-13); hopefully I will have transporation.
+* I will be looking into two vocational programs for the deafblind; they both provide a variety of workplace experiences in addition to basic deafblind living skills such as signing, fingerspelling, and the like. If I do manage to get to the deafblind conference I can ask former students who've been through the programs what their experiences were like and we'll discuss from there.
+* Assessments will be made. Oh my head, assessments will be made. Aside from the O&M assessment, which I noted above, there will be a mental health assessment and, I think, a physical.
+* Arrangements for psychiatric and psychological assistance will be made.
+
+...And this week I'll be heading down to the Oklahoma DHS(Department of Human Services) to get *those* benefits started.
+
