@@ -9,7 +9,7 @@ h3. "{{post.title}}":{{post.url}}
 
 Posted {{post.date | date_to_string}}.
 
-{{post.content | strip_html | truncate_words: 55}}
+{{ post.content | truncate_words: 10 }}
 
 "Read more...":{{post.url}}
 
