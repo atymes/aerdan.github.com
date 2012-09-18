@@ -17,5 +17,5 @@ Corporations are not people, but must still adhere to these principles; however,
 
 Patents should grant exclusive license to the specific implementation used by the patentee; if the patentee does not have an implementation, the patent should automatically and irrevocably be forfeit. Patent suits are already, in the US at least, being required to go through the PTO's administrative process for such proceedings rather than regular courts.
 
-"Intellectual property", otherwise known as copyrights & patents, should have a duration of no more than 14 years from publication or issuance of patent, with a one-time renewal good for the same period for copyrights as an option. Neither should be issued for laws of physics or other natural phenomena.
+"Intellectual property", otherwise known as copyrights & patents, should have a duration of no more than 14 years from publication or issuance of patent; for individuals, this term may be extended indefinitely, but for corporations such renewal is capped at 28 total years. Neither should be issued for laws of physics or other natural phenomena.
 
