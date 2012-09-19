@@ -21,6 +21,7 @@ article, nav, footer, section {
     padding-right: 1em;
     padding-bottom: 1ex;
 }
+section { display: block; }
 #side {
     width: 20%;
     margin-left: 1em;
