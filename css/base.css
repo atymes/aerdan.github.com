@@ -7,10 +7,10 @@ html {
 body {
     margin-top: 1em;
 }
-aside, nav {
+aside, #side {
     display: inline-block;
 }
-article, nav, footer {
+article, nav, footer, #side > div {
     background-color: #315A8C;
     border-width: 4px;
     border-image: url(/img/ff4.png) 4 4;
@@ -21,7 +21,7 @@ article, nav, footer {
     padding-right: 1em;
     padding-bottom: 1ex;
 }
-nav {
+#side {
     width: 20%;
     margin-left: 1em;
     vertical-align: top;

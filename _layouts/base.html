@@ -7,9 +7,12 @@
         <link href="/css/base.css" rel="stylesheet">
     </head>
     <body>
-        <nav>
+        <div id="#side">
             {% include nav.html %}
-        </nav>
+            <div>
+                Last modified: {{page.date}}
+            </div>
+        </div>
         <aside>
             {{content}}
             <footer>
