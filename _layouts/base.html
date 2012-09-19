@@ -10,7 +10,7 @@
         <div id="side">
             {% include nav.html %}
             <section>
-            Site updated: {{site.time}}
+            Site updated: {{site.time | date_to_string}}
             </section>
         </div>
         <aside>
