@@ -10,7 +10,7 @@ body {
 aside, #side {
     display: inline-block;
 }
-article, nav, footer, #side > div {
+article, nav, footer, section {
     background-color: #315A8C;
     border-width: 4px;
     border-image: url(/img/ff4.png) 4 4;
