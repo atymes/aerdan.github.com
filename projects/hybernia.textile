@@ -1,0 +1,42 @@
+---
+layout: page
+title: Notes on the World of Hybernia
+---
+
+Hybernia, the world in which the Poblacht na Sionnach (hereafter 'the Republic') is situated, is a low-magic fantasy world. It consists of three major continents and several minor ones. From northwest to southeast, the landmasses of Hybernia are:
+
+* Lagan
+* Deel
+* Avonbeg
+* Aughrim
+* Keady
+* Clady
+* Agivey
+* Annacloy
+
+There are also several islands, mostly southwest of Annacloy and between Agivey and Annacloy.
+
+h2. Magic
+
+Hybernian magic consists of manipulating energy via transformation or relocation. Concentration can be managed, by particularly skilled practitioners, down to 1µm. Accuracy scales with distance and experience, such that while a novice can only light kindling he's standing next to, master magicians can ignite single candles from across a banquet hall.
+
+Magical ability is based entirely on genetics; either you have it or you don't, but it's not, strictly speaking, hereditary-only. It has been known to appear spontaneously in families with no capable relations whatsoever.
+
+h2. Technology
+
+Technology varies across Hybernia, but the Republic presently enjoys late Roman-era technology, including as-yet-untapped steam power.
+
+h2. Nations
+
+Aside from the Republic, other nations on Hybernia include:
+
+* The Principality of Deithe, a primarily-human theocracy (modeled loosely on the Catholic Church, hierarchically).
+* The Kingdom of Gadhar, a human/gnoll symbiotic monarchy.
+* The Aeries of Fiacha, a federation of harpy city-states.
+* The Sky Kingdom, a federation of gryphon city-states.
+* The Mianaigh Princedom, a loose dwarfish monarchy.
+
+h3. The Principality of Deithe
+
+Deithe is ruled by Archdivine Comhghan the Bald at the Holy Temple of Deithe, its central and most populous city. He was elected from the ranks of the Divines after the previous Archdivine died leading the 
+
